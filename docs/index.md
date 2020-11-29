@@ -18,9 +18,10 @@ The Netherlands
 Email: natalia.chepiga@alumni.epfl.ch
 
 
-### Inspiration
+Inspiration
+===========
 
-
-Floating, critical and dimerized phases in a frustrated spin-3/2 chain
+### Floating, critical and dimerized phases in a frustrated spin-3/2 chain
 
 ![Phase diagram](assets/images/spin32.svg)
+
