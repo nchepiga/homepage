@@ -34,6 +34,9 @@ The Netherlands
 
 Email: natalia.chepiga@alumni.epfl.ch
 
+ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
+
+[GoogleScholar](https://scholar.google.ch/citations?user=oktle5oAAAAJ&hl=de&oi=ao) 
 
 
 Openings
