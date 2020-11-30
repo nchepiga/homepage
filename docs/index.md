@@ -1,6 +1,10 @@
 Natalia Chepiga
 ===============
 
+Email: natalia.chepiga@alumni.epfl.ch
+
+[CV](https://nchepiga.github.io/homepage/assets/CV.pdf)
+
 ### Postal address:
 
 **University of Amsterdam**
@@ -31,8 +35,6 @@ Lorentzweg 1,
 
 The Netherlands
 
-
-Email: natalia.chepiga@alumni.epfl.ch
 
 ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
