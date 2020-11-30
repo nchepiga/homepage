@@ -32,9 +32,16 @@ Lorentzweg 1,
 The Netherlands
 
 
-
-
 Email: natalia.chepiga@alumni.epfl.ch
+
+
+
+Openings
+========
+
+PhD and postdoc positions are currently available in my newly established group on Quantum Many-Body Physics at TUDelft.
+If you are interested in joining the group contact me by e-mail. 
+
 
 
 Inspiration
