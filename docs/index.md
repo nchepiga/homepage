@@ -47,6 +47,13 @@ If you are interested in joining the group contact me by e-mail.
 Inspiration
 ===========
 
+### Chiral transitions in chains of Rydberg atoms
+
+![Correlation](assets/images/Chiral.svg)
+
+[paper](https://arxiv.org/abs/1808.08990) and 
+[another one](https://arxiv.org/abs/2001.06698)
+
 ### Floating phase in a spin-3/2 chain
 
 ![Phase diagram](assets/images/spin32.svg)
@@ -55,14 +62,14 @@ Inspiration
 
 ### Solitons in spin-1 chain
 
-![Phase diagram](assets/images/soliton.svg)
+![Magnetization profile](assets/images/soliton.svg)
 
 [paper](https://arxiv.org/abs/1910.03064)
 
 ### Comb tensor networks
 
-![Phase diagram](assets/images/comb.svg)
+![Contraction](assets/images/comb.svg)
 
-[paper](https://arxiv.org/abs/1903.00432) 
+[paper](https://arxiv.org/abs/1903.00432) and 
 [another one](https://arxiv.org/abs/2002.11405v1)
 
