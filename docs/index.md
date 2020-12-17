@@ -73,7 +73,8 @@ Inspiration
 
 ![Magnetization profile](assets/images/soliton.svg)
 
-[paper](https://arxiv.org/abs/1910.03064)
+[paper](https://arxiv.org/abs/1608.08109) and 
+[another one](https://arxiv.org/abs/1910.03064)
 
 ### **Comb tensor networks**
 
