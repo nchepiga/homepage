@@ -69,12 +69,22 @@ Inspiration
 
 [paper](https://arxiv.org/abs/2002.08982) 
 
+
+### **Conformal Towers with DMRG**
+
+![Energy spectrum](assets/images/ConformalTower.svg)
+
+[paper](https://arxiv.org/abs/1705.05423) and 
+[another one](https://arxiv.org/abs/1603.01395)
+
+
 ### **Solitons in spin-1 chain**
 
 ![Magnetization profile](assets/images/soliton.svg)
 
 [paper](https://arxiv.org/abs/1608.08109) and 
 [another one](https://arxiv.org/abs/1910.03064)
+
 
 ### **Comb tensor networks**
 
