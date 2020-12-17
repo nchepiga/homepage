@@ -3,8 +3,8 @@ Natalia Chepiga
 
 Email: natalia.chepiga@alumni.epfl.ch
 
-[CV](https://nchepiga.github.io/homepage/assets/CV.pdf)   
-[GoogleScholar](https://scholar.google.ch/citations?user=oktle5oAAAAJ&hl=de&oi=ao)   
+[CV](https://nchepiga.github.io/homepage/assets/CV.pdf) 
+[GoogleScholar](https://scholar.google.ch/citations?user=oktle5oAAAAJ&hl=de&oi=ao) 
 ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
 
@@ -16,14 +16,10 @@ PhD and postdoc positions are currently available in my newly established group 
 
 The group will focus on a development of tensor network algorithms and applications to:
 
-- Quantum magnetism;
-
-- Rydberg atoms and systems with unconventional Hilbert space in and out of equilibrium;
-
-- Exotic quantum phase transitions;
-
-- Quantum scars and related topics;
-
+- Quantum magnetism;   
+- Rydberg atoms and systems with unconventional Hilbert space in and out of equilibrium;   
+- Exotic quantum phase transitions;   
+- Quantum scars and related topics;   
 - Supersymmetry. 
 
 If you are interested in joining the group contact me by e-mail. 
