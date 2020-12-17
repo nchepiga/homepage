@@ -15,15 +15,13 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 ============
 
 PhD and postdoc positions are currently available in my newly established group on Quantum Many-Body Physics at TUDelft.
-
 The group will focus on a development of tensor network algorithms and applications to:
 
 - Quantum magnetism;   
 - Rydberg atoms and systems with unconventional Hilbert space in and out of equilibrium;   
 - Exotic quantum phase transitions;   
 - Quantum scars and related topics;   
-- Supersymmetry. 
-
+- Supersymmetry.   
 If you are interested in joining the group contact me by e-mail. 
 Soft deadline is January 31 2021, but later applications will be considered until all positions are filled.
 
