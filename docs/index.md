@@ -3,20 +3,31 @@ Natalia Chepiga
 
 Email: natalia.chepiga@alumni.epfl.ch
 
-[CV](https://nchepiga.github.io/homepage/assets/CV.pdf)
-
-
+[CV](https://nchepiga.github.io/homepage/assets/CV.pdf)   
+[GoogleScholar](https://scholar.google.ch/citations?user=oktle5oAAAAJ&hl=de&oi=ao)   
 ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
-[GoogleScholar](https://scholar.google.ch/citations?user=oktle5oAAAAJ&hl=de&oi=ao) 
 
 
-Openings
-========
+**Openings**
+============
 
 PhD and postdoc positions are currently available in my newly established group on Quantum Many-Body Physics at TUDelft.
-If you are interested in joining the group contact me by e-mail. 
 
+The group will focus on a development of tensor network algorithms and applications to:
+
+- Quantum magnetism;
+
+- Rydberg atoms and systems with unconventional Hilbert space in and out of equilibrium;
+
+- Exotic quantum phase transitions;
+
+- Quantum scars and related topics;
+
+- Supersymmetry. 
+
+If you are interested in joining the group contact me by e-mail. 
+Soft deadline is January 31 2021, but later applications will be considered until all positions are filled.
 
 ### Postal address:
 
@@ -47,10 +58,10 @@ Inspiration
 
 ![Correlation](assets/images/Chiral.svg)
 
+[Video seminar](https://www.youtube.com/watch?v=zOzUTW-IZoE&t=955s), 
 [paper](https://arxiv.org/abs/1808.08990) and 
 [another one](https://arxiv.org/abs/2001.06698)
 
-[Video seminar](https://www.youtube.com/watch?v=zOzUTW-IZoE&t=955s) 
 
 ### **Floating phase in a spin-3/2 chain**
 
