@@ -4,7 +4,9 @@ Natalia Chepiga
 Email: natalia.chepiga@alumni.epfl.ch
 
 [CV](https://nchepiga.github.io/homepage/assets/CV.pdf) 
+
 [GoogleScholar](https://scholar.google.ch/citations?user=oktle5oAAAAJ&hl=de&oi=ao) 
+
 ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
 
