@@ -3,7 +3,7 @@ Natalia Chepiga
 
 Email: natalia.chepiga@alumni.epfl.ch
 
-[[CV]](https://nchepiga.github.io/homepage/assets/CV.pdf) and
+[CV](https://nchepiga.github.io/homepage/assets/CV.pdf) and
 [GoogleScholar](https://scholar.google.ch/citations?user=oktle5oAAAAJ&hl=de&oi=ao)
 
 ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
@@ -26,23 +26,13 @@ Soft deadline is January 31 2021, but later applications will be considered unti
 
 ### Postal address:
 
-**University of Amsterdam**
-
-Institute for Theoretical Physics,
-Science Park 904, 
-Postbus 94485, 
-1090 GL Amsterdam, 
-The Netherlands 
-
-### From 1 January 2021:
 
 **Delft University of Technology**
 
-Faculty of Applied Sciences, 
-Kavli Institute of Nanoscience, 
 Department of Quantum Nanoscience, 
-Lorentzweg 1, 
-2628 CJ Delft, 
+Kavli Institute of Nanoscience, 
+Faculty of Applied Sciences, 
+Lorentzweg 1, 2628 CJ Delft, 
 The Netherlands
 
 
