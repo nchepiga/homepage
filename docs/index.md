@@ -1,7 +1,7 @@
 Natalia Chepiga
 ===============
 
-Email: natalia.chepiga@alumni.epfl.ch
+Email: n.chepiga@tudelft.nl
 
 [CV](https://nchepiga.github.io/homepage/assets/CV.pdf) and
 [GoogleScholar](https://scholar.google.ch/citations?user=oktle5oAAAAJ&hl=de&oi=ao)
