@@ -45,8 +45,8 @@ Inspiration
 ![Correlation](assets/images/Chiral.svg)
 
 [Video seminar](https://www.youtube.com/watch?v=zOzUTW-IZoE&t=955s), 
-[paper](https://arxiv.org/abs/1808.08990) and 
-[another one](https://arxiv.org/abs/2001.06698)
+[Nature Communications](https://www.nature.com/articles/s41467-020-20641-y) and 
+[PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.017205)
 
 
 ### **Floating phase in a spin-3/2 chain**
