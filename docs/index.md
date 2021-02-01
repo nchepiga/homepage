@@ -23,7 +23,7 @@ The group will focus on a **development of tensor network algorithms and applica
 - Supersymmetry.   
 
 I am primary looking for candidates with strong numerical background, but excellent candidates with expertise in other areas of condensed matter theory will also be considered. Applications should be sent by e-mail and contain an academic CV including list of publications, the (provisional) title of the PhD/Master thesis, a motivation letter, and the contact information of two referees.
-Soft deadline is January 31 2021, but later applications will be considered until all positions are filled.
+Soft deadline is February 28 2021, but later applications will be considered until all positions are filled.
 
 ### Postal address:
 
