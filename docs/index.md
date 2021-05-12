@@ -16,10 +16,10 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 PhD and postdoc positions are currently available in my newly established group on Computational Quantum Many-Body Physics at TUDelft.
 The group will focus on a **development of tensor network algorithms and applications** to:
 
+- Exotic quantum phase transitions;   
 - Quantum magnetism;   
 - Rydberg atoms and systems with unconventional Hilbert space in and out of equilibrium;   
-- Exotic quantum phase transitions;   
-- Quantum scars and related topics;   
+- Quantum scars and constrained dynamics;   
 - Supersymmetry.   
 
 I am primary looking for candidates with strong numerical background, but excellent candidates with expertise in other areas of condensed matter theory will also be considered. Applications should be sent by e-mail and contain an academic CV including list of publications, the (provisional) title of the PhD/Master thesis, a motivation letter, and the contact information of two referees.
@@ -47,6 +47,14 @@ Inspiration
 [Video seminar](https://www.youtube.com/watch?v=zOzUTW-IZoE&t=955s), 
 [Nature Communications](https://www.nature.com/articles/s41467-020-20641-y) and 
 [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.017205)
+
+
+### **Supersymmetry and multicriticality in constrained fermions**
+
+![SUSY](assets/images/PhaseDiag_SUSY.svg)
+
+[preprint](https://arxiv.org/abs/2105.04359)
+
 
 
 ### **Floating phase in a spin-3/2 chain**
