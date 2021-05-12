@@ -59,7 +59,7 @@
    inkscape:collect="always"><stop
      id="stop3126"
      offset="0"
-     style="stop-color:#64ddff;stop-opacity:1" /><stop
+     style="stop-color:#1fceff;stop-opacity:1" /><stop
      id="stop3128"
      offset="1"
      style="stop-color:#85e4ff;stop-opacity:0;" /></linearGradient><clipPath
@@ -1028,8 +1028,8 @@
      d="M 0,0 H 822 V 551 H 0 Z"
      id="path18" /></clipPath><linearGradient
    gradientUnits="userSpaceOnUse"
-   y2="498.82611"
-   x2="572.70703"
+   y2="477.84869"
+   x2="643.51672"
    y1="641.95343"
    x1="384.7804"
    id="linearGradient3629"
