@@ -49,6 +49,12 @@ Inspiration
 [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.017205)
 
 
+### **Boundary CFT and duality in 3- and 4-state Potts models**
+
+![Potts4](assets/images/Potts4_NewA_blk.svg)
+
+[preprint](https://arxiv.org/abs/2107.08899)
+
 ### **Supersymmetry and multicriticality in constrained fermions**
 
 ![SUSY](assets/images/PhaseDiag_SUSY.svg)
