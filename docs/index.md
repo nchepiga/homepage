@@ -13,7 +13,7 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 **Openings**
 ============
 
-Postdoc and PhD positions are currently available in my newly established group on Computational Quantum Many-Body Physics at TUDelft.
+Postdoc and PhD positions are currently available in my group on Computational Quantum Many-Body Physics at TUDelft.
 The group will focus on the **development of tensor network algorithms and applications** to:
 
 - Exotic quantum phase transitions;   
@@ -23,7 +23,11 @@ The group will focus on the **development of tensor network algorithms and appli
 - Supersymmetry.   
 
 I am primary looking for candidates with strong numerical background, but excellent candidates with expertise in other areas of condensed matter theory will also be considered. Applications should be sent by e-mail and contain an academic CV including a list of publications, the (provisional) title of the PhD/Master thesis, a motivation letter, and the contact information of two referees.
-Applications will be considered until all positions are filled.
+
+Deadline for PhD applications: 31 January 2022
+
+Deadline for postdoc applications: 31 March 2022
+
 
 ### Postal address:
 
