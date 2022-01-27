@@ -9,15 +9,6 @@ Email: n.chepiga@tudelft.nl
 ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
 
-**News**
-============
-
-### **Minerva prize**
-
-![Correlation](assets/images/minerva.jpg)
-
-[DPC anouncement](https://dutchphysicscouncil.nl/613-4/)
-
 
 **Openings**
 ============
@@ -38,16 +29,16 @@ Deadline for PhD applications: 31 January 2022
 Deadline for postdoc applications: 31 March 2022
 
 
-### Postal address:
 
+**News**
+============
 
-**Delft University of Technology**
+### **Minerva prize**
 
-Department of Quantum Nanoscience, 
-Kavli Institute of Nanoscience, 
-Faculty of Applied Sciences, 
-Lorentzweg 1, 2628 CJ Delft, 
-The Netherlands
+![Correlation](assets/images/minerva.jpg)
+
+[DPC anouncement](https://dutchphysicscouncil.nl/613-4/)
+
 
 
 Inspiration
@@ -105,4 +96,19 @@ Inspiration
 
 [paper](https://arxiv.org/abs/1903.00432) and 
 [another one](https://arxiv.org/abs/2002.11405v1)
+
+
+
+
+
+### Postal address:
+
+
+**Delft University of Technology**
+
+Department of Quantum Nanoscience, 
+Kavli Institute of Nanoscience, 
+Faculty of Applied Sciences, 
+Lorentzweg 1, 2628 CJ Delft, 
+The Netherlands
 
