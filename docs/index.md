@@ -9,6 +9,15 @@ Email: n.chepiga@tudelft.nl
 ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
 
+**News**
+============
+
+### **Minerva prize**
+
+![Correlation](assets/images/minerva.jpg)
+
+[DPC anouncement](https://dutchphysicscouncil.nl/613-4/)
+
 
 **Openings**
 ============
