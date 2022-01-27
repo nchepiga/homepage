@@ -24,9 +24,9 @@ The group will focus on the **development of tensor network algorithms and appli
 
 I am primary looking for candidates with strong numerical background, but excellent candidates with expertise in other areas of condensed matter theory will also be considered. Applications should be sent by e-mail and contain an academic CV including a list of publications, the (provisional) title of the PhD/Master thesis, a motivation letter, and the contact information of two referees.
 
-Deadline for PhD applications: 31 January 2022
+Deadline for PhD applications: 1 February 2022
 
-Deadline for postdoc applications: 31 March 2022
+Deadline for postdoc applications: 1 March 2022
 
 
 
