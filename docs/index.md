@@ -13,36 +13,18 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 **Openings**
 ============
 
-Postdoc and PhD positions are currently available in my group on Computational Quantum Many-Body Physics at TUDelft.
-The group will focus on the **development of tensor network algorithms and applications** to:
-
-- Exotic quantum phase transitions;   
-- Quantum magnetism;   
-- Rydberg atoms and systems with unconventional Hilbert space in and out of equilibrium;   
-- Quantum scars and constrained dynamics;   
-- Supersymmetry.   
-
-I am primary looking for candidates with strong numerical background, but excellent candidates with expertise in other areas of condensed matter theory will also be considered. Applications should be sent by e-mail and contain an academic CV including a list of publications, the (provisional) title of the PhD/Master thesis, a motivation letter, and the contact information of two referees.
-
-Deadline for PhD applications: 1 February 2022
-
-Deadline for postdoc applications: 1 March 2022
-
-
-
-**News**
-============
-
-### **Minerva prize**
-
-![Correlation](assets/images/minerva.jpg)
-
-[DPC anouncement](https://dutchphysicscouncil.nl/613-4/)
-
+A postdoc position is available. If you are interested, contact me by e-mail.
 
 
 Inspiration
 ===========
+
+
+### **5, 3, 1... The zoo of WZW transitions in spin-5/2 chain**
+
+![spin2p5](assets/images/PDs2p5.svg)
+
+[preprint](https://arxiv.org/abs/2202.05087)
 
 ### **Chiral transitions in chains of Rydberg atoms**
 
@@ -63,7 +45,7 @@ Inspiration
 
 ![SUSY](assets/images/PhaseDiag_SUSY.svg)
 
-[preprint](https://arxiv.org/abs/2105.04359)
+[paper](https://scipost.org/10.21468/SciPostPhys.11.3.059)
 
 
 
