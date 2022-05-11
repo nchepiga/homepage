@@ -11,25 +11,34 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 May 25th:
 
-Kareljan Schoutens (UvA/QuSoft)//
-Laurens Vanderstraeten (UGent)//
+Kareljan Schoutens (UvA/QuSoft)
+
+Laurens Vanderstraeten (UGent)
+
 Mikael Fremling (UU)
+
 Lieven Vandersypen (TUD)
+
 Bernard Nienhuis (Leiden, to be confirmed)
 
 
 May 31st:
 
 Philippe Corboz (UvA)
+
 Lars Fritz (UU)
+
 Jordi Tura Brugues (Leiden)
+
 Juraj Hasik (UvA)
 
 
 June 2nd:
 
 Dirk Schuricht (UU)
+
 Jiri Minar (UvA)
+
 Vladimir Gritsev (UvA)
 
 
