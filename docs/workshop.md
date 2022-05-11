@@ -41,17 +41,19 @@ Jiri Minar (UvA)
 
 Vladimir Gritsev (UvA)
 
+### Programme 
+
+TBA
+
 
 ### Location
 
 
 **Delft University of Technology**
 
-Kavli Institute of Nanoscience, 
+Kavli Institute of Nanoscience,  Applied Sciences 22, Lorentzweg 1, 2628 CJ Delft,  The Netherlands
 
-Applied Sciences 22, 
+### List of Prticipants
 
-Lorentzweg 1, 2628 CJ Delft, 
-
-The Netherlands
+TBA
 
