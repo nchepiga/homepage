@@ -21,20 +21,15 @@ Bernard Nienhuis (Leiden, to be confirmed)
 May 31st:
 
 Philippe Corboz (UvA)
-
 Lars Fritz (UU)
-
 Jordi Tura Brugues (Leiden)
-
 Juraj Hasik (UvA)
 
 
 June 2nd:
 
 Dirk Schuricht (UU)
-
 Jiri Minar (UvA)
-
 Vladimir Gritsev (UvA)
 
 
