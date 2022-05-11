@@ -9,7 +9,7 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 **Invited speakers**
 
 
-May 25th:
+**May 25th**
 
 Kareljan Schoutens (UvA/QuSoft)
 
@@ -22,7 +22,7 @@ Lieven Vandersypen (TUD)
 Bernard Nienhuis (Leiden, to be confirmed)
 
 
-May 31st:
+**May 31st**
 
 Philippe Corboz (UvA)
 
@@ -33,7 +33,7 @@ Jordi Tura Brugues (Leiden)
 Juraj Hasik (UvA)
 
 
-June 2nd:
+**June 2nd**
 
 Dirk Schuricht (UU)
 
