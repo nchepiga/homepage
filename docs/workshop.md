@@ -93,7 +93,7 @@ Room: F 206
 
 
 
-### Location
+### **Location**
 
 
 **Delft University of Technology**
@@ -107,7 +107,7 @@ Lorentzweg 1, 2628 CJ Delft,  The Netherlands
 ![Building22](assets/images/delft.svg)
 
 
-### List of Prticipants
+### **List of Prticipants**
 
 Jordi Tura Brugues (Leiden)
 
