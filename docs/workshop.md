@@ -6,8 +6,7 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 
 
-Program
-=======
+### Programme 
 
 [Download](https://nchepiga.github.io/homepage/assets/program_workshops.pdf)
 
@@ -44,16 +43,14 @@ Room: F 206
 
 Room: F 206
 
-```diff
 
 10:00-10:30 Arrival + Discussions
 
+10:30-11:50 Philippe Corboz (UvA)
 
--10:30-11:50 Philippe Corboz (UvA)
+11:50-12:30 Jordi Tura Bruguez (Leiden)
 
--11:50-12:30 Jordi Tura Bruguez (Leiden)
-
-+12:30-13:50 Lunch + Discussions
+12:30-13:50 Lunch + Discussions
 
 
 13:50-14:30 Lars Fritz (UU)
@@ -65,15 +62,35 @@ Room: F 206
 
 **June 2nd**
 
-Dirk Schuricht (UU)
+4x40’ invited talks + 3x25’ contributed talks
 
-Jiri Minar (UvA)
+Room: F 461.1 and F 461.2
 
-Vladimir Gritsev (UvA)
+10:00-10:30 Arrival + Discussions
 
-### Programme 
+10:30-11:10 Vladimir Gritsev (UvA)
 
-TBA
+11:10-11:35 Denise Ahmed-Braun (TUE)
+
+11:35-12:00 Lieuwe Bakker (UvA)
+
+12:00-12:25 Jyong-Hao Chen (Leiden)
+
+12:30-13:50 Lunch + Discussions
+
+Room: F 206
+
+13:50-14:30 Sander Otte (TUDelft)
+
+14:30-15:10 Jiri Minar (UvA)
+
+15:10-15:50 Coffee + Discussions
+
+15:50-16:30 Dirk Schuricht (UU)
+
+
+
+
 
 
 ### Location
@@ -81,9 +98,15 @@ TBA
 
 **Delft University of Technology**
 
-Kavli Institute of Nanoscience,  Applied Sciences 22, Lorentzweg 1, 2628 CJ Delft,  The Netherlands
+Room: F 206 (and 461.1/2) 
+
+Kavli Institute of Nanoscience,  **Applied Sciences 22**,
+
+Lorentzweg 1, 2628 CJ Delft,  The Netherlands
+
+![Building22](assets/images/delft.svg)
 
 ### List of Prticipants
 
-TBA
+
 
