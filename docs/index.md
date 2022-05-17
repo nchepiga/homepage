@@ -15,7 +15,7 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
 ![outing](assets/images/outing.jpg)
 
-A postdoc position is available. If you are interested, contact me by e-mail.
+Postdoc position is available. If you are interested, contact me by e-mail.
 
 
 Inspiration
