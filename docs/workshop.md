@@ -38,13 +38,27 @@ Room: F 206
 
 **May 31st**
 
-Philippe Corboz (UvA)
+1x1h20’ lecture + 3x40’ invited talks
 
-Lars Fritz (UU)
+Room: F 206
 
-Jordi Tura Brugues (Leiden)
+```diff
 
-Juraj Hasik (UvA)
+10:00-10:30 Arrival + Discussions
+
+
+10:30-11:50 Philippe Corboz (UvA)
+
+11:50-12:30 Jordi Tura Bruguez (Leiden)
+
+12:30-13:50 Lunch + Discussions
+
+
+13:50-14:30 Lars Fritz (UU)
+
+14:30-15:10 Juraj Hasik (UvA)
+
+15:10-17:00 Coffee + Discussions
 
 
 **June 2nd**
