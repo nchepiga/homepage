@@ -106,7 +106,83 @@ Lorentzweg 1, 2628 CJ Delft,  The Netherlands
 
 ![Building22](assets/images/delft.svg)
 
+
 ### List of Prticipants
 
+Jordi Tura Brugues (Leiden)
+
+Philippe Corboz (UvA)
+
+Mikael Fremling (UU)
+
+Lars Fritz (UU)
+
+Vladimir Gritsev (UvA)
+
+Juraj Hasik (UvA)
+
+Bernard Nienhuis (Leiden)
+
+Jiri Minar (UvA)
+
+Sander Otte (TUDelft)
+
+Kareljan Schoutens (UvA, Qusoft)
+
+Dirk Schuricht (UU)
+
+Laurens Vanderstraeten (UGent)
+
+Lieven Vandersypen (TUDelft)
+
+Denise Ahmed-Braun (TU Eindhoven)
+
+Lieuwe Bakker (UvA)
+
+Evgenii Barts (Groningen)
+
+Yaroslav Blanter (TUDelft)
+
+Liam Bond (UvA)
+
+Mert Bozkurt (TUDelft)
+
+Lander Burgelman (UGent)
+
+Maarten van Damme (UGent)
+
+Jyong-Hao Chen (Leiden)
+
+Lukas Devos (UGent)
+
+Emanuele Di Salvo (UU)
+
+Ivo Gabrovski (Groningen)
+
+Yaroslav Herasymenko (TUDelft, QuSoft)
+
+Onno Huijgen (Radboud)
+
+Rui-Zhen Huang (UGent)
+
+Misha Isachenkov (UvA)
+
+Bowy La Riviere (TUDelft)
+
+Sebastian Miles (TUDelft)
+
+Stephan Plugge (Leiden)
+
+Artem Pulkin
+
+Mykola Semenyakin (Leiden)
+
+Jose Soto (TUDelft)
+
+Ward Vleeshouwers (UvA)
+
+Xin Zhang (QuTech, TUDelft)
+
+Kars (TUDelft)
 
 
