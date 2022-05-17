@@ -6,7 +6,7 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 
 
-### Programme 
+### **Programme** 
 
 [Download](https://nchepiga.github.io/homepage/assets/program_workshops.pdf)
 
