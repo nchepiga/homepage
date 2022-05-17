@@ -7,7 +7,7 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 
 Program
-===============================
+=======
 
 [Download](https://nchepiga.github.io/homepage/assets/program_workshops.pdf)
 
@@ -49,11 +49,11 @@ Room: F 206
 10:00-10:30 Arrival + Discussions
 
 
-10:30-11:50 Philippe Corboz (UvA)
+-10:30-11:50 Philippe Corboz (UvA)
 
-11:50-12:30 Jordi Tura Bruguez (Leiden)
+-11:50-12:30 Jordi Tura Bruguez (Leiden)
 
-12:30-13:50 Lunch + Discussions
++12:30-13:50 Lunch + Discussions
 
 
 13:50-14:30 Lars Fritz (UU)
