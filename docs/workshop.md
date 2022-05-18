@@ -183,6 +183,5 @@ Ward Vleeshouwers (UvA)
 
 Xin Zhang (QuTech, TUDelft)
 
-Kars (TUDelft)
 
 
