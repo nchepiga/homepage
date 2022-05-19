@@ -137,6 +137,8 @@ Lieven Vandersypen (TUDelft)
 
 Denise Ahmed-Braun (TU Eindhoven)
 
+Juan Diego Arias Espinoza (UvA)
+
 Lieuwe Bakker (UvA)
 
 Evgenii Barts (Groningen)
