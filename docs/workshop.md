@@ -57,7 +57,10 @@ Room: F 206
 
 14:30-15:10 Juraj Hasik (UvA)
 
-15:10-17:00 Coffee + Discussions
+15:10-15:50 Coffee + Discussions
+
+15:50-16:15 Maarten Van Damme (UGent)
+
 
 
 **June 2nd**
