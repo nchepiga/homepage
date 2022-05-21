@@ -12,7 +12,7 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 **May 25th**
 
-1x1h20’ lecture + 3x40’ invited talks + 2x25’ contributed talk
+1x1h20’ lecture + 3x40’ invited talks + 2x25’ contributed talks
 
 Room: F 206
 
@@ -39,7 +39,7 @@ Room: F 206
 
 **May 31st**
 
-1x1h20’ lecture + 3x40’ invited talks
+1x1h20’ lecture + 3x40’ invited talks + 1x25’ contributed talk
 
 Room: F 206
 
@@ -90,8 +90,6 @@ Room: F 206
 15:10-15:50 Coffee + Discussions
 
 15:50-16:30 Dirk Schuricht (UU)
-
-
 
 
 
@@ -169,6 +167,10 @@ Yaroslav Herasymenko (TUDelft, QuSoft)
 Onno Huijgen (Radboud)
 
 Rui-Zhen Huang (UGent)
+
+Daan Maertens (UGent)
+
+Antonio Manesco (TUDelft)
 
 Misha Isachenkov (UvA)
 
