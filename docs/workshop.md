@@ -61,6 +61,9 @@ Room: F 206
 
 15:50-16:15 Maarten Van Damme (UGent)
 
+15:15-16:40 Boris Ponsioen (UvA)
+
+
 
 
 **June 2nd**
@@ -177,6 +180,8 @@ Misha Isachenkov (UvA)
 Bowy La Riviere (TUDelft)
 
 Sebastian Miles (TUDelft)
+
+Boris Ponsioen (UvA)
 
 Stephan Plugge (Leiden)
 
