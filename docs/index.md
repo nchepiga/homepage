@@ -9,6 +9,14 @@ Email: n.chepiga@tudelft.nl
 ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
 
+**The group**
+============
+
+![Workshop1](assets/images/workshop1_2.jpg)
+
+Delft Many-Body Workshop Series
+
+[Web-site](https://nchepiga.github.io/homepage/workshop)
 
 **The group**
 ============
@@ -16,6 +24,10 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 ![outing](assets/images/outing.jpg)
 
 Postdoc position is available. If you are interested, contact me by e-mail.
+
+
+
+
 
 
 Inspiration
