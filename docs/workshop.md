@@ -10,32 +10,6 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 [Download](https://nchepiga.github.io/homepage/assets/program_workshops.pdf)
 
-**May 25th**
-
-1x1h20’ lecture + 3x40’ invited talks + 2x25’ contributed talks
-
-Room: F 206
-
-10:00-10:30 Arrival + Discussions
-
-10:30-11:50 Kareljan Schoutens (UvA, QuSoft)
-
-11:50-12:30 Laurens Vanderstraeten (UGent)
-
-12:30-13:50 Lunch + Discussions
-
-13:50-14:30 Lieven Vandersypen (TUDelft)
-
-14:30-15:10 Mikael Fremling (UU)
-
-15:10-15:50 Coffee + Discussions
-
-15:50-16:15 Misha Isachenkov (UvA)
-
-16:15-16:40 Onno Huijgen (Radboud)
-
-
-
 
 **May 31st**
 
@@ -95,6 +69,16 @@ Room: F 206
 15:50-16:30 Dirk Schuricht (UU)
 
 
+
+
+
+### **Past workshops**
+
+**May 25th**
+
+Speakers: Kareljan Schoutens (UvA, QuSoft); Laurens Vanderstraeten (UGent); Lieven Vandersypen (TUDelft); Mikael Fremling (UU); Misha Isachenkov (UvA); Onno Huijgen (Radboud)
+
+![Workshop1](assets/images/workshop1.jpg)
 
 
 ### **Location**
