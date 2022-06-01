@@ -11,34 +11,6 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 [Download](https://nchepiga.github.io/homepage/assets/program_workshops.pdf)
 
 
-**May 31st**
-
-1x1h20’ lecture + 3x40’ invited talks + 2x25’ contributed talks
-
-Room: F 206
-
-
-10:00-10:30 Arrival + Discussions
-
-10:30-11:50 Philippe Corboz (UvA)
-
-11:50-12:30 Jordi Tura Bruguez (Leiden)
-
-12:30-13:50 Lunch + Discussions
-
-
-13:50-14:30 Lars Fritz (UU)
-
-14:30-15:10 Juraj Hasik (UvA)
-
-15:10-15:50 Coffee + Discussions
-
-15:50-16:15 Maarten Van Damme (UGent)
-
-16:15-16:40 Boris Ponsioen (UvA)
-
-
-
 
 **June 2nd**
 
@@ -70,9 +42,14 @@ Room: F 206
 
 
 
-
-
 ### **Past workshops**
+
+**May 31st**
+
+Speakers: Philippe Corboz (UvA); Jordi Tura Bruguez (Leiden); Lars Fritz (UU); Juraj Hasik (UvA); Maarten Van Damme (UGent); Boris Ponsioen (UvA)
+
+![Workshop2](assets/images/workshop2.jpg)
+
 
 **May 25th**
 
@@ -86,7 +63,7 @@ Speakers: Kareljan Schoutens (UvA, QuSoft); Laurens Vanderstraeten (UGent); Liev
 
 **Delft University of Technology**
 
-Room: F 206 (and 461.1/2) 
+Room: F 206 and F 461.1/2 
 
 Kavli Institute of Nanoscience,  **Applied Sciences 22**,
 

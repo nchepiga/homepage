@@ -86,6 +86,21 @@
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path1012" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1061-6" />
+    </marker>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -120,30 +135,30 @@
        id="image12" />
     <path
        style="fill:#ffb900;fill-opacity:1;stroke:#f8b300;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1444)"
-       d="M 384.27766,257.74185 341.70383,512.65171"
+       d="M 524.64079,355.56101 341.70383,512.65171"
        id="path837"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:68.8019px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ffb900;fill-opacity:1;stroke-width:2.15006"
-       x="81.434631"
-       y="186.83133"
+       x="296.9689"
+       y="282.79944"
        id="text1215"><tspan
          sodipodi:role="line"
          id="tspan1213"
-         x="81.434631"
-         y="186.83133"
+         x="296.9689"
+         y="282.79944"
          style="font-size:68.8019px;fill:#ffb900;fill-opacity:1;stroke-width:2.15006">Applied Sciences 22</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:68.8019px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ffb900;fill-opacity:1;stroke-width:2.15006"
-       x="254.09407"
-       y="243.09041"
+       x="469.62833"
+       y="339.05853"
        id="text1215-3"><tspan
          sodipodi:role="line"
          id="tspan1213-6"
-         x="254.09407"
-         y="243.09041"
+         x="469.62833"
+         y="339.05853"
          style="font-size:68.8019px;fill:#ffb900;fill-opacity:1;stroke-width:2.15006">entrance</tspan></text>
     <path
        style="fill:none;stroke:#ff0000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
@@ -168,5 +183,50 @@
          x="18.898979"
          y="699.39075"
          style="font-size:68.8019px;fill:#ff0000;fill-opacity:1;stroke-width:2.15006">room F 206</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-3)"
+       d="M 195.6767,191.68034 232.34769,370.3821"
+       id="path1050-7"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#5e6a84;fill-opacity:0.581894;stroke:none;stroke-width:7;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect1478-5"
+       width="363.53668"
+       height="77.543076"
+       x="14.765632"
+       y="109.07523" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:68.8019px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;stroke-width:2.15006"
+       x="24.884054"
+       y="167.70914"
+       id="text1215-3-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan1213-6-5-5"
+         x="24.884054"
+         y="167.70914"
+         style="font-size:68.8019px;fill:#ff0000;fill-opacity:1;stroke-width:2.15006">room F 461.1 / F 461.2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:44.5931px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;stroke-width:1.39353"
+       x="152.96442"
+       y="100.02428"
+       id="text1215-3-7-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan1213-6-5-5-2"
+         x="152.96442"
+         y="100.02428"
+         style="font-size:44.5931px;fill:#ff0000;fill-opacity:1;stroke-width:1.39353">morning session</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:44.5931px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;stroke-width:1.39353"
+       x="30.293293"
+       y="746.06757"
+       id="text1215-3-7-3-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan1213-6-5-5-2-1"
+         x="30.293293"
+         y="746.06757"
+         style="font-size:44.5931px;fill:#ff0000;fill-opacity:1;stroke-width:1.39353">afternoon session</tspan></text>
   </g>
 </svg>
