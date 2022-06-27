@@ -43,9 +43,9 @@ Inspiration
 ![Correlation](assets/images/Chiral.svg)
 
 [Video seminar](https://www.youtube.com/watch?v=zOzUTW-IZoE&t=955s), 
-[Nature Communications](https://www.nature.com/articles/s41467-020-20641-y) and 
-[PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.017205)
-[new preprint](https://arxiv.org/abs/2203.01163)
+[Nature Communications](https://www.nature.com/articles/s41467-020-20641-y),
+[PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.017205)  and 
+[the new preprint](https://arxiv.org/abs/2203.01163)
 
 
 ### **Boundary CFT and duality in 3- and 4-state Potts models**
@@ -60,6 +60,11 @@ Inspiration
 
 [paper](https://scipost.org/10.21468/SciPostPhys.11.3.059)
 
+### **8-vertex criticality in the interacting Kitaev chain**
+
+![kitaev](assets/images/PD_NN_U6.svg)
+
+[preprint](https://arxiv.org/abs/2206.11754)
 
 
 ### **Floating phase in spin-3/2 chain**
