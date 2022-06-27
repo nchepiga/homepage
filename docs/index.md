@@ -32,11 +32,11 @@ Inspiration
 ===========
 
 
-### **5, 3, 1... The zoo of WZW transitions in spin-5/2 chain**
+### **5, 3, 1... The odd sequence of WZW criticalities in spin-5/2 chain**
 
 ![spin2p5](assets/images/PDs2p5.svg)
 
-[preprint](https://arxiv.org/abs/2202.05087)
+[paper](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.174402)
 
 ### **Chiral transitions in chains of Rydberg atoms**
 
@@ -45,13 +45,14 @@ Inspiration
 [Video seminar](https://www.youtube.com/watch?v=zOzUTW-IZoE&t=955s), 
 [Nature Communications](https://www.nature.com/articles/s41467-020-20641-y) and 
 [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.017205)
+[new preprint](https://arxiv.org/abs/2203.01163)
 
 
 ### **Boundary CFT and duality in 3- and 4-state Potts models**
 
 ![Potts4](assets/images/Potts4_NewA_blk.svg)
 
-[preprint](https://arxiv.org/abs/2107.08899)
+[paper](https://scipost.org/SciPostPhysCore.5.2.031/pdf)
 
 ### **Supersymmetry and multicriticality in constrained fermions**
 
@@ -61,7 +62,7 @@ Inspiration
 
 
 
-### **Floating phase in a spin-3/2 chain**
+### **Floating phase in spin-3/2 chain**
 
 ![Phase diagram](assets/images/spin32.svg)
 
