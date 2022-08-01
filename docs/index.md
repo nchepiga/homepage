@@ -16,8 +16,6 @@ Next workshop: October 12th 2022
 
 ![Workshop1](assets/images/workshop1_2.jpg)
 
-[Web-site](https://nchepiga.github.io/homepage/workshop)
-
 **The group**
 ============
 
