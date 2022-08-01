@@ -9,7 +9,7 @@ Email: n.chepiga@tudelft.nl
 ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
 
-**Delft Many-Body Workshop Series**
+**Delft Many-Body Workshop Series**(https://nchepiga.github.io/homepage/workshop)
 ============
 
 ![Workshop1](assets/images/workshop1_2.jpg)
