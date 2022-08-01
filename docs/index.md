@@ -12,6 +12,8 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 **Delft Many-Body Workshop Series**(https://nchepiga.github.io/homepage/workshop)
 ============
 
+Next workshop: October 12th 2022
+
 ![Workshop1](assets/images/workshop1_2.jpg)
 
 [Web-site](https://nchepiga.github.io/homepage/workshop)
