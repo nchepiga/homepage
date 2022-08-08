@@ -44,6 +44,13 @@ Room: F 206
 
 ### **Past workshops**
 
+
+**June 2nd**
+
+Speakers: Philippe Corboz (UvA); Jordi Tura Bruguez (Leiden); Lars Fritz (UU); Juraj Hasik (UvA); Maarten Van Damme (UGent); Boris Ponsioen (UvA)
+
+![Workshop3](assets/images/workshop_3.jpg.svg)
+
 **May 31st**
 
 Speakers: Philippe Corboz (UvA); Jordi Tura Bruguez (Leiden); Lars Fritz (UU); Juraj Hasik (UvA); Maarten Van Damme (UGent); Boris Ponsioen (UvA)
