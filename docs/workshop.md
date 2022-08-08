@@ -39,7 +39,7 @@ Lorentzweg 1, 2628 CJ Delft,  The Netherlands
 
 Speakers: Vladimir Gritsev (UvA); Dirk Schuricht (UU); Sander Otte (TUDelft); Jiri Minar (UvA); Denise Ahmed-Braun (TUE); Lieuwe Bakker (UvA); Jyong-Hao Chen (Leiden); 
 
-![Workshop3](assets/images/workshop_3.jpg.svg)
+![Workshop3](assets/images/workshop_3.jpg)
 
 **May 31st**
 
