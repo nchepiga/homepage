@@ -6,39 +6,29 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 
 
-### **Program** 
+### **Upcoming workshops** 
 
-[Download](https://nchepiga.github.io/homepage/assets/program_workshops.pdf)
+**Symmetry and Duality in Quantum Many-Body Systems**
 
+**October 12 at TUDelft**
 
+Invited speakers: Hosho Katsura (University of Tokyo)
 
-**June 2nd**
+**October 13(tbc) at UGent**
 
-4x40’ invited talks + 3x25’ contributed talks
+Invited speakers: 
 
-Room: F 461.1 and F 461.2
+### **Location**
 
-10:00-10:30 Arrival + Discussions
+**Delft University of Technology**
 
-10:30-11:10 Vladimir Gritsev (UvA)
+Room: F 206 and F 461.1/2 
 
-11:10-11:35 Denise Ahmed-Braun (TUE)
+Kavli Institute of Nanoscience,  **Applied Sciences 22**,
 
-11:35-12:00 Lieuwe Bakker (UvA)
+Lorentzweg 1, 2628 CJ Delft,  The Netherlands
 
-12:00-12:25 Jyong-Hao Chen (Leiden)
-
-12:30-13:50 Lunch + Discussions
-
-Room: F 206
-
-13:50-14:30 Sander Otte (TUDelft)
-
-14:30-15:10 Jiri Minar (UvA)
-
-15:10-15:50 Coffee + Discussions
-
-15:50-16:30 Dirk Schuricht (UU)
+![Building22](assets/images/delft.svg)
 
 
 
@@ -47,7 +37,7 @@ Room: F 206
 
 **June 2nd**
 
-Speakers: Philippe Corboz (UvA); Jordi Tura Bruguez (Leiden); Lars Fritz (UU); Juraj Hasik (UvA); Maarten Van Damme (UGent); Boris Ponsioen (UvA)
+Speakers: Vladimir Gritsev (UvA); Dirk Schuricht (UU); Sander Otte (TUDelft); Jiri Minar (UvA); Denise Ahmed-Braun (TUE); Lieuwe Bakker (UvA); Jyong-Hao Chen (Leiden); 
 
 ![Workshop3](assets/images/workshop_3.jpg.svg)
 
@@ -64,19 +54,9 @@ Speakers: Kareljan Schoutens (UvA, QuSoft); Laurens Vanderstraeten (UGent); Liev
 
 ![Workshop1](assets/images/workshop1.jpg)
 
+[Download programs](https://nchepiga.github.io/homepage/assets/program_workshops.pdf)
 
-### **Location**
 
-
-**Delft University of Technology**
-
-Room: F 206 and F 461.1/2 
-
-Kavli Institute of Nanoscience,  **Applied Sciences 22**,
-
-Lorentzweg 1, 2628 CJ Delft,  The Netherlands
-
-![Building22](assets/images/delft.svg)
 
 
 ### **List of Prticipants**

@@ -116,8 +116,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.91587219"
-     inkscape:cx="680.96002"
-     inkscape:cy="453.12"
+     inkscape:cx="341.80244"
+     inkscape:cy="477.00434"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -162,7 +162,7 @@
          style="font-size:68.8019px;fill:#ffb900;fill-opacity:1;stroke-width:2.15006">entrance</tspan></text>
     <path
        style="fill:none;stroke:#ff0000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="M 122.80413,626.61211 37.417634,516.15132"
+       d="m -387.19587,626.61211 -85.3865,-110.46079"
        id="path1050"
        sodipodi:nodetypes="cc" />
     <rect
@@ -170,17 +170,17 @@
        id="rect1478"
        width="363.53668"
        height="77.543076"
-       x="8.7805557"
+       x="-501.21942"
        y="640.75684" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:68.8019px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;stroke-width:2.15006"
-       x="18.898979"
+       x="-491.10101"
        y="699.39075"
        id="text1215-3-7"><tspan
          sodipodi:role="line"
          id="tspan1213-6-5"
-         x="18.898979"
+         x="-491.10101"
          y="699.39075"
          style="font-size:68.8019px;fill:#ff0000;fill-opacity:1;stroke-width:2.15006">room F 206</tspan></text>
     <path
@@ -209,23 +209,23 @@
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:44.5931px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;stroke-width:1.39353"
-       x="152.96442"
+       x="-415.03558"
        y="100.02428"
        id="text1215-3-7-3-6"><tspan
          sodipodi:role="line"
          id="tspan1213-6-5-5-2"
-         x="152.96442"
+         x="-415.03558"
          y="100.02428"
          style="font-size:44.5931px;fill:#ff0000;fill-opacity:1;stroke-width:1.39353">morning session</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:44.5931px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;stroke-width:1.39353"
-       x="30.293293"
+       x="-479.70673"
        y="746.06757"
        id="text1215-3-7-3-6-9"><tspan
          sodipodi:role="line"
          id="tspan1213-6-5-5-2-1"
-         x="30.293293"
+         x="-479.70673"
          y="746.06757"
          style="font-size:44.5931px;fill:#ff0000;fill-opacity:1;stroke-width:1.39353">afternoon session</tspan></text>
   </g>
