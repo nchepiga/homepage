@@ -9,6 +9,7 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 ### **Upcoming workshops** 
 
 **Symmetry and Duality in Quantum Many-Body Systems**
+
 [Registration form](https://forms.gle/Xjykg7ifk56kxWeM6) 
 
 **October 12 at TUDelft**
