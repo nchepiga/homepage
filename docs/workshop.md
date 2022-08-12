@@ -9,28 +9,16 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 ### **Upcoming workshops** 
 
 **Symmetry and Duality in Quantum Many-Body Systems**
+[Registration form](https://forms.gle/Xjykg7ifk56kxWeM6) 
 
 **October 12 at TUDelft**
 
-Invited speakers: 
+Speakers: Frank Verstraete (Ghent); Jan Zaanen (Leiden); Hosho Katsura (Tokyo); 
 
-Frank Verstraete (Ghent)
+**October 13 at UGhent**
 
-Jan Zaanen (Leiden)
+Speakers: Jean-Sébastien Caux (Amsterdam); Cristiane de Morais Smith (Utrecht); Natalia Chepiga (TUDelft)
 
-Hosho Katsura (Tokyo)
-
-**October 13 at UGent**
-
-Invited speakers: 
-
-Jean-Sébastien Caux (Amsterdam)
-
-Cristiane de Morais Smith (Utrecht)
-
-
-
-[Registration form](https://forms.gle/Xjykg7ifk56kxWeM6) 
 
 
 
