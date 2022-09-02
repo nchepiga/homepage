@@ -12,13 +12,27 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 [Registration form](https://forms.gle/Xjykg7ifk56kxWeM6) 
 
+List of invited speakers:
+
 **October 12 at TUDelft**
 
-Speakers: Frank Verstraete (Ghent); Jan Zaanen (Leiden); Hosho Katsura (Tokyo); 
+Kareljan Schoutens (Amsterdam)
+
+Jan Zaanen (Leiden)
+
+Hosho Katsura (Tokyo)
+
+Frank Verstraete (Ghent)
 
 **October 13 at UGhent**
 
-Speakers: Jean-Sébastien Caux (Amsterdam); Cristiane de Morais Smith (Utrecht); Natalia Chepiga (TUDelft)
+Jean-Sébastien Caux (Amsterdam)
+
+Cristiane de Morais Smith (Utrecht)
+
+Pieter Claeys(Dresden)
+
+Natalia Chepiga (Delft)
 
 
 
