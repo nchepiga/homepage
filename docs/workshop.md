@@ -32,7 +32,9 @@ Cristiane de Morais Smith (Utrecht)
 
 Pieter Claeys(Dresden)
 
-Natalia Chepiga (Delft)
+Clement Delcamp (Ghent)
+
+Laurens Lootens (Ghent)
 
 
 
