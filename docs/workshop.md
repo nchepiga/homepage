@@ -24,6 +24,8 @@ Hosho Katsura (Tokyo)
 
 Frank Verstraete (Ghent)
 
+Jutho Haegeman (Ghent)
+
 **October 13 at UGhent**
 
 Jean-Sébastien Caux (Amsterdam)
