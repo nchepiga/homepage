@@ -16,27 +16,47 @@ List of invited speakers:
 
 **October 12 at TUDelft**
 
-Kareljan Schoutens (Amsterdam)
+9:30-10:00 (Coffee+)Arrival
 
-Jan Zaanen (Leiden)
+10:00-11:00 Kareljan Schoutens (Amsterdam)
 
-Hosho Katsura (Tokyo)
+11:10-11:55 Hosho Katsura (Tokyo)
 
-Frank Verstraete (Ghent)
+Duality, criticality, and topology in quantum spin-1 chains
 
-Jutho Haegeman (Ghent)
+12:00-13:00 Lunch
+
+13:00-14:00 Frank Verstraete (Ghent)
+
+14:05:14:50 Jutho Haegeman (Ghent)
+
+14:50-15:30  Coffee
+
+15:30-16:15 Pieter Claeys(Dresden)
+
+16:20-16:45 Emanuele Di Salvo (Utrecht)
+
+Quantum quenches in the sinh-Gordon and Lieb-Liniger models
 
 **October 13 at UGhent**
 
-Jean-Sébastien Caux (Amsterdam)
+9:30-10:00 (Coffee+)Arrival
 
-Cristiane de Morais Smith (Utrecht)
+10:00-10:45 Clement Delcamp (Ghent)
 
-Pieter Claeys(Dresden)
+10:50-11:50 Jean-Sébastien Caux (Amsterdam)
 
-Clement Delcamp (Ghent)
+12:00-13:00 Lunch
 
-Laurens Lootens (Ghent)
+14:05:14:50 Natalia Chepiga (Delft)
+
+Dual boundary conditions
+
+14:50-15:30  Coffee
+
+15:30-16:15 Laurens Lootens (Ghent)
+
+16:20-16:45 Juan Arias
 
 
 
