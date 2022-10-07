@@ -42,22 +42,25 @@ Quantum quenches in the sinh-Gordon and Lieb-Liniger models
 
 9:30-10:00 (Coffee+)Arrival
 
-10:00-10:45 Clement Delcamp (Ghent)
+10:00-10:45 Laurens Lootens (Ghent)
 
 10:50-11:50 Jean-Sébastien Caux (Amsterdam)
 
 12:00-13:00 Lunch
 
+13:00-14:00  Ian McCulloch (Queensland)
+
 14:05:14:50 Natalia Chepiga (Delft)
 
-Dual boundary conditions
+Dual boundary conditions in minimal models
 
 14:50-15:30  Coffee
 
-15:30-16:15 Laurens Lootens (Ghent)
+15:30-16:15 Clement Delcamp (Ghent)
 
-16:20-16:45 Juan Arias
+16:20-16:45 Juan Arias (Amsterdam)
 
+Quantum Information Scrambling in Systems with Nonlocal Interactions
 
 
 
