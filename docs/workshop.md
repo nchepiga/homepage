@@ -20,6 +20,8 @@ List of invited speakers:
 
 10:00-11:00 Kareljan Schoutens (Amsterdam)
 
+SUSY for CMT: Six Not-So-Easy-Pieces
+
 11:10-11:55 Hosho Katsura (Tokyo)
 
 Duality, criticality, and topology in quantum spin-1 chains
