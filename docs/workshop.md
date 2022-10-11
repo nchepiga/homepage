@@ -36,6 +36,8 @@ Duality, criticality, and topology in quantum spin-1 chains
 
 15:30-16:15 Pieter Claeys(Dresden)
 
+Spacetime duality in unitary circuit dynamics
+
 16:20-16:45 Emanuele Di Salvo (Utrecht)
 
 Quantum quenches in the sinh-Gordon and Lieb-Liniger models
