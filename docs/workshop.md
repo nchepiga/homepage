@@ -46,8 +46,6 @@ Quantum quenches in the sinh-Gordon and Lieb-Liniger models
 
 9:30-10:00 (Coffee+)Arrival
 
-10:00-10:45 Laurens Lootens (Ghent)
-
 10:50-11:50 Jean-Sébastien Caux (Amsterdam)
 
 12:00-13:00 Lunch
