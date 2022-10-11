@@ -48,6 +48,8 @@ Quantum quenches in the sinh-Gordon and Lieb-Liniger models
 
 10:50-11:50 Jean-Sébastien Caux (Amsterdam)
 
+Quench dynamics using renormalization from integrability
+
 12:00-13:00 Lunch
 
 13:00-14:00  Ian McCulloch (Queensland)
