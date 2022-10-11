@@ -30,7 +30,11 @@ Duality, criticality, and topology in quantum spin-1 chains
 
 13:00-14:00 Frank Verstraete (Ghent)
 
+A constructive approach to boundary conditions and dualities for quantum spin chains
+
 14:05:14:50 Jutho Haegeman (Ghent)
+
+Tensor Network Algorithms and Symmetries
 
 14:50-15:30  Coffee
 
