@@ -10,65 +10,54 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 **Symmetry and Duality in Quantum Many-Body Systems**
 
-[Registration form](https://forms.gle/Xjykg7ifk56kxWeM6) 
-
-List of invited speakers:
 
 **October 12 at TUDelft**
 
-9:30-10:00 (Coffee+)Arrival
-
-10:00-11:00 Kareljan Schoutens (Amsterdam)
-
-SUSY for CMT: Six Not-So-Easy-Pieces
-
-11:10-11:55 Hosho Katsura (Tokyo)
-
-Duality, criticality, and topology in quantum spin-1 chains
-
-12:00-13:00 Lunch
-
-13:00-14:00 Frank Verstraete (Ghent)
-
-A constructive approach to boundary conditions and dualities for quantum spin chains
-
-14:05:14:50 Jutho Haegeman (Ghent)
-
-Tensor Network Algorithms and Symmetries
-
-14:50-15:30  Coffee
-
-15:30-16:15 Pieter Claeys(Dresden)
-
-Spacetime duality in unitary circuit dynamics
-
-16:20-16:45 Emanuele Di Salvo (Utrecht)
-
-Quantum quenches in the sinh-Gordon and Lieb-Liniger models
+List of speakers: Kareljan Schoutens (Amsterdam); 
+Hosho Katsura (Tokyo);
+Frank Verstraete (Ghent);
+Jutho Haegeman (Ghent);
+Pieter Claeys(Dresden);
+Emanuele Di Salvo (Utrecht);
 
 **October 13 at UGhent**
 
-9:30-10:00 (Coffee+)Arrival
+9:30 – 10:00 Arrival + coffee
 
-10:50-11:50 Jean-Sébastien Caux (Amsterdam)
+10:00 – 11:00 Ian McCulloch (Queensland)
 
-Quench dynamics using renormalization from integrability
+Higher moments and finite entanglement scaling
 
-12:00-13:00 Lunch
-
-13:00-14:00  Ian McCulloch (Queensland)
-
-14:05:14:50 Natalia Chepiga (Delft)
+11:00 – 11:45 Natalia Chepiga (Delft)
 
 Dual boundary conditions in minimal models
 
-14:50-15:30  Coffee
+11:45 – 12:15 Karel Van Acoleyen (Ghent)
 
-15:30-16:15 Clement Delcamp (Ghent)
+Bose-Einstein condensation in Ghent
 
-16:20-16:45 Juan Arias (Amsterdam)
+12:15 – 13:30 Lunch
 
-Quantum Information Scrambling in Systems with Nonlocal Interactions
+13:30 – 14:30 Jean-Sébastien Caux (Amsterdam)
+
+Quench dynamics using renormalization from integrability
+
+14:30 – 15:00 Coffee
+
+15:00 – 15:45 Clement Delcamp (Ghent)
+
+Dualities and (higher) representation theory
+
+15:45 – 16:30 Juan Arias (Amsterdam)
+
+Quantum information scrambling in systems with nonlocal interactions
+
+Location Campus Sterre
+
+Krijgslaan 281, Gent
+
+building S1, room 3.3
+
 
 
 
