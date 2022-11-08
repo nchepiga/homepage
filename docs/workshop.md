@@ -6,60 +6,6 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 
 
-### **Upcoming workshops** 
-
-**Symmetry and Duality in Quantum Many-Body Systems**
-
-
-**October 12 at TUDelft**
-
-List of speakers: Kareljan Schoutens (Amsterdam); 
-Hosho Katsura (Tokyo);
-Frank Verstraete (Ghent);
-Jutho Haegeman (Ghent);
-Pieter Claeys(Dresden);
-Emanuele Di Salvo (Utrecht);
-
-**October 13 at UGhent**
-
-9:30 – 10:00 Arrival + coffee
-
-10:00 – 11:00 Ian McCulloch (Queensland)
-
-Higher moments and finite entanglement scaling
-
-11:00 – 11:45 Natalia Chepiga (Delft)
-
-Dual boundary conditions in minimal models
-
-11:45 – 12:15 Karel Van Acoleyen (Ghent)
-
-Bose-Einstein condensation in Ghent
-
-12:15 – 13:30 Lunch
-
-13:30 – 14:30 Jean-Sébastien Caux (Amsterdam)
-
-Quench dynamics using renormalization from integrability
-
-14:30 – 15:00 Coffee
-
-15:00 – 15:45 Clement Delcamp (Ghent)
-
-Dualities and (higher) representation theory
-
-15:45 – 16:30 Juan Arias (Amsterdam)
-
-Quantum information scrambling in systems with nonlocal interactions
-
-Location Campus Sterre
-
-Krijgslaan 281, Gent
-
-building S1, room 3.3
-
-
-
 
 ### **Location**
 
@@ -77,21 +23,42 @@ Lorentzweg 1, 2628 CJ Delft,  The Netherlands
 
 ### **Past workshops**
 
+**Symmetry and Duality in Quantum Many-Body Systems**
 
-**June 2nd**
+**October 13 2022 at UGhent**
+
+List of speakers: Ian McCulloch (Queensland);
+Natalia Chepiga (Delft);
+Karel Van Acoleyen (Ghent);
+Jean-Sébastien Caux (Amsterdam);
+Clement Delcamp (Ghent);
+Juan Arias (Amsterdam);
+
+
+**October 12 2022 at TUDelft**
+
+List of speakers: Kareljan Schoutens (Amsterdam); 
+Hosho Katsura (Tokyo);
+Frank Verstraete (Ghent);
+Jutho Haegeman (Ghent);
+Pieter Claeys(Dresden);
+Emanuele Di Salvo (Utrecht);
+
+
+**June 2nd 2022**
 
 Speakers: Vladimir Gritsev (UvA); Dirk Schuricht (UU); Sander Otte (TUDelft); Jiri Minar (UvA); Denise Ahmed-Braun (TUE); Lieuwe Bakker (UvA); Jyong-Hao Chen (Leiden); 
 
 ![Workshop3](assets/images/workshop_3.jpg)
 
-**May 31st**
+**May 31st 2022**
 
 Speakers: Philippe Corboz (UvA); Jordi Tura Bruguez (Leiden); Lars Fritz (UU); Juraj Hasik (UvA); Maarten Van Damme (UGent); Boris Ponsioen (UvA)
 
 ![Workshop2](assets/images/workshop2.jpg)
 
 
-**May 25th**
+**May 25th 2022**
 
 Speakers: Kareljan Schoutens (UvA, QuSoft); Laurens Vanderstraeten (UGent); Lieven Vandersypen (TUDelft); Mikael Fremling (UU); Misha Isachenkov (UvA); Onno Huijgen (Radboud)
 
