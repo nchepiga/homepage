@@ -40,11 +40,22 @@ Postdoc position is available. If you are interested contact me by e-mail.
 [paper](https://arxiv.org/pdf/2209.10390.pdf) is going to appear [here](https://journals.aps.org/prresearch/accepted/93072J4eJ711800fd05283a4b44e33f80efbb55d0)
 
 
+
+
+
+
+
 ### **5, 3, 1... The odd sequence of WZW criticalities in spin-5/2 chain**
 
 ![spin2p5](assets/images/PDs2p5.svg)
 
 [paper](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.174402)
+
+
+
+
+
+
 
 ### **Chiral transitions in chains of Rydberg atoms**
 
@@ -56,17 +67,33 @@ Postdoc position is available. If you are interested contact me by e-mail.
 [the new preprint](https://arxiv.org/abs/2203.01163)
 
 
+
+
+
+
 ### **Boundary CFT and duality in 3- and 4-state Potts models**
 
 ![Potts4](assets/images/Potts4_NewA_blk.svg)
 
 [paper](https://scipost.org/SciPostPhysCore.5.2.031/pdf)
 
+
+
+
+
+
+
 ### **Supersymmetry and multicriticality in constrained fermions**
 
 ![SUSY](assets/images/PhaseDiag_SUSY.svg)
 
 [paper](https://scipost.org/10.21468/SciPostPhys.11.3.059)
+
+
+
+
+
+
 
 ### **8-vertex criticality in the interacting Kitaev chain**
 
@@ -75,11 +102,21 @@ Postdoc position is available. If you are interested contact me by e-mail.
 [preprint](https://arxiv.org/abs/2206.11754)
 
 
+
+
+
+
+
 ### **Floating phase in spin-3/2 chain**
 
 ![Phase diagram](assets/images/spin32.svg)
 
 [paper](https://arxiv.org/abs/2002.08982) 
+
+
+
+
+
 
 
 ### **Conformal Towers with DMRG**
@@ -90,12 +127,22 @@ Postdoc position is available. If you are interested contact me by e-mail.
 [another one](https://arxiv.org/abs/1603.01395)
 
 
+
+
+
+
+
 ### **Solitons in spin-1 chain**
 
 ![Magnetization profile](assets/images/soliton.svg)
 
 [paper](https://arxiv.org/abs/1608.08109) and 
 [another one](https://arxiv.org/abs/1910.03064)
+
+
+
+
+
 
 
 ### **Comb tensor networks**
