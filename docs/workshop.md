@@ -4,7 +4,9 @@ Delft Many-Body Workshop Series
 
 Understanding collective phenomena in strongly correlated quantum many-body systems is one of the biggest challenges in modern condensed matter physics. Development of efficient computational methods and conformal field theory topped up with the recent progress on cold atoms experiments make the study of low-dimensional strongly correlated systems one of the hottest topics in the field. The goal of this workshop series is to bring together local experts working on various aspects of quantum many-body theory to regenerate the network of scientific connections and to stimulate new collaborations in the area.
 
+### **Next workshops**
 
+**coming soon...**
 
 
 ### **Location**
@@ -17,7 +19,7 @@ Kavli Institute of Nanoscience,  **Applied Sciences 22**,
 
 Lorentzweg 1, 2628 CJ Delft,  The Netherlands
 
-![Building22](assets/images/delft.svg)
+%%%![Building22](assets/images/delft.svg)
 
 
 
@@ -71,8 +73,6 @@ Speakers: Kareljan Schoutens (UvA, QuSoft); Laurens Vanderstraeten (UGent); Liev
 
 ### **List of Prticipants**
 
-Jordi Tura Brugues (Leiden)
-
 Philippe Corboz (UvA)
 
 Mikael Fremling (UU)
@@ -96,6 +96,8 @@ Dirk Schuricht (UU)
 Laurens Vanderstraeten (UGent)
 
 Lieven Vandersypen (TUDelft)
+
+Jordi Tura Brugues (Leiden)
 
 Denise Ahmed-Braun (TU Eindhoven)
 

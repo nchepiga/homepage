@@ -12,24 +12,32 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 [**Delft Many-Body Workshop Series**](https://nchepiga.github.io/homepage/workshop)
 ============
 
-Next workshop: October 12th 2022
+Next workshop... is coming soon
 
 ![Workshop1](assets/images/workshop1_2.jpg)
 
 **The group**
 ============
 
+Postdoc position is available. If you are interested contact me by e-mail.
+
 ![outing](assets/images/outing.jpg)
 
-Postdoc position is available. If you are interested, contact me by e-mail.
 
 
 
 
 
 
-Inspiration
+
+**Research**
 ===========
+
+### **Floating phase without doping: new surprises from the old model**
+
+![ktpt](assets/images/KTPT.svg)
+
+[paper](https://arxiv.org/pdf/2209.10390.pdf) is going to appear [here](https://journals.aps.org/prresearch/accepted/93072J4eJ711800fd05283a4b44e33f80efbb55d0)
 
 
 ### **5, 3, 1... The odd sequence of WZW criticalities in spin-5/2 chain**
