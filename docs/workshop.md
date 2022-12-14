@@ -27,13 +27,15 @@ Lorentzweg 1, 2628 CJ Delft,  The Netherlands
 
 **Symmetry and Duality in Quantum Many-Body Systems**
 
+![Workshop4](assets/images/workshop4.jpg)
+
 **October 13 2022 at UGhent**
 
 List of speakers: Ian McCulloch (Queensland);
-Natalia Chepiga (Delft);
 Karel Van Acoleyen (Ghent);
 Jean-Sébastien Caux (Amsterdam);
 Clement Delcamp (Ghent);
+Natalia Chepiga (Delft);
 Juan Arias (Amsterdam);
 
 
@@ -72,6 +74,16 @@ Speakers: Kareljan Schoutens (UvA, QuSoft); Laurens Vanderstraeten (UGent); Liev
 
 
 ### **List of Prticipants**
+
+Frank Verstraete (Ghent)
+
+Hosho Katsura (Tokyo)
+
+Jutho Haegeman (Ghent)
+
+Pieter Claeys(Dresden)
+
+Emanuele Di Salvo (Utrecht)
 
 Philippe Corboz (UvA)
 
