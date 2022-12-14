@@ -37,7 +37,7 @@ Postdoc position is available. If you are interested contact me by e-mail.
 
 ![ktpt](assets/images/KTPT.svg)
 
-[paper](https://arxiv.org/pdf/2209.10390.pdf) is going to appear [here](https://journals.aps.org/prresearch/accepted/93072J4eJ711800fd05283a4b44e33f80efbb55d0)
+[This pre-print](https://arxiv.org/pdf/2209.10390.pdf) is going to appear [here](https://journals.aps.org/prresearch/accepted/93072J4eJ711800fd05283a4b44e33f80efbb55d0)
 
 
 
