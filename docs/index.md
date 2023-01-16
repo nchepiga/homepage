@@ -12,7 +12,7 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 [**Delft Many-Body Workshop Series**](https://nchepiga.github.io/homepage/workshop)
 ============
 
-Next workshop... is coming soon
+Next workshop: [24 February 2023](https://nchepiga.github.io/homepage/workshop)
 
 ![Workshop1](assets/images/workshop1_2.jpg)
 
@@ -37,7 +37,7 @@ Postdoc position is available. If you are interested contact me by e-mail.
 
 ![ktpt](assets/images/KTPT.svg)
 
-[This pre-print](https://arxiv.org/pdf/2209.10390.pdf) is going to appear [here](https://journals.aps.org/prresearch/accepted/93072J4eJ711800fd05283a4b44e33f80efbb55d0)
+[Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043225)
 
 
 
