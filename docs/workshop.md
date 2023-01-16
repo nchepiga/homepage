@@ -17,10 +17,12 @@ Wouter Buijsman (BGU, Israel);
 
 Rui-Zhen Huang (UGhent);
 
-Ward Vleeshouwers (Amsterdam);
+Ward Vleeshouwers (QuiX Quantum BV, QuSoft);
 
 Jiri Minar (Amsterdam) - TBC;
 
+
+[Registration form](https://forms.gle/J1QTZ3JqegpSC8Ws5) is now open
 
 ### **Past workshops**
 
