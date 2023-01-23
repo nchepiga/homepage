@@ -11,6 +11,8 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 List of invited speakers:
 
+Dmitry Abanin (Geneva)
+
 Wojciech De Roeck (KULeuven);
 
 Wouter Buijsman (BGU, Israel);
