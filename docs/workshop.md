@@ -9,22 +9,39 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 **Disorder, entanglement and localization in strongly-correlated systems**
 
-List of invited speakers:
+**9:00-10:00 Arrival + Coffee + Discussions**
 
-Dmitry Abanin (Geneva)
+**10:00-11:00 Wouter Buijsman (BGU)**
 
-Wojciech De Roeck (KULeuven);
+Many-body localization: an introduction and some recent developments
 
-Wouter Buijsman (BGU, Israel);
+**11:00-12:00 Dmitry Abanin (UniGe)**
 
-Rui-Zhen Huang (UGhent);
+TBA
 
-Ward Vleeshouwers (QuiX Quantum BV, QuSoft);
+**12:00-13:00 Lunch + Discussions**
 
-Jiri Minar (Amsterdam) - TBC;
+**13:00-13:45 Wojciech De Roeck (Leuven)**
+
+TBA
+
+**13:45-14:30 Jiri Minar (Amsterdam)**
+
+TBA
+
+**14:30-15:15 Coffee + Discussions**
+
+**15:15-16:00 Rui-Zhen Huang (UGhent)**
+
+Scaling, entanglement and physical conformal boundaries in uniform infinite matrix product states
+
+**16:00-16:45 Ward Vleeshouwers (QuiX Quantum BV, QuSoft)**
+
+TBA
 
 
-[Registration form](https://forms.gle/J1QTZ3JqegpSC8Ws5) is now open
+
+[Registration form](https://forms.gle/J1QTZ3JqegpSC8Ws5)
 
 ### **Past workshops**
 
