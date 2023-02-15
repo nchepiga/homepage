@@ -43,6 +43,23 @@ TBA
 
 [Registration form](https://forms.gle/J1QTZ3JqegpSC8Ws5)
 
+
+
+### **Location**
+
+**Delft University of Technology**
+
+Room: F 206 and F 461.1/2 
+
+Kavli Institute of Nanoscience,  **Applied Sciences 22**,
+
+Lorentzweg 1, 2628 CJ Delft,  The Netherlands
+
+![Building22](assets/images/delft.svg)
+
+
+
+
 ### **Past workshops**
 
 **Symmetry and Duality in Quantum Many-Body Systems**
@@ -96,18 +113,6 @@ Speakers: Kareljan Schoutens (UvA, QuSoft); Laurens Vanderstraeten (UGent); Liev
 
 ![Workshop1](assets/images/workshop1.jpg)
 
-
-### **Location**
-
-**Delft University of Technology**
-
-Room: F 206 and F 461.1/2 
-
-Kavli Institute of Nanoscience,  **Applied Sciences 22**,
-
-Lorentzweg 1, 2628 CJ Delft,  The Netherlands
-
-![Building22](assets/images/delft.svg)
 
 
 
