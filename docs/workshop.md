@@ -27,7 +27,7 @@ TBA
 
 **13:45-14:30 Jiri Minar (Amsterdam)**
 
-TBA
+Quantum scars: from disorder to holography
 
 **14:30-15:15 Coffee + Discussions**
 
