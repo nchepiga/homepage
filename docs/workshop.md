@@ -17,7 +17,7 @@ Many-body localization: an introduction and some recent developments
 
 **11:00-12:00 Dmitry Abanin (UniGe)**
 
-TBA
+Influence matrices, temporal entanglement, and quantum many-body dynamics 
 
 **12:00-13:00 Lunch + Discussions**
 
