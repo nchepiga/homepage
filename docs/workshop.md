@@ -37,7 +37,7 @@ Scaling, entanglement and physical conformal boundaries in uniform infinite matr
 
 **16:00-16:45 Ward Vleeshouwers (QuiX Quantum BV, QuSoft)**
 
-TBA
+Unitary matrix integrals and long range random walks
 
 
 
