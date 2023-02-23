@@ -44,7 +44,7 @@ Unitary matrix integrals and long range random walks
 
 16-18 October 2023
 
-Confirmed speakers: Roderich Moessner (MPI PKS), Paul Fendley (Oxford), Juan P. Garrahan (Nottinghen), Maksym Serbyn (ISTA), Felix Flicker (Cardiff), Luca Tagliacozzo (CSIC), Philippe Corboz (UvA)
+Confirmed speakers: **Paul Fendley** (Oxford), **Roderich Moessner** (MPI PKS), **Juan P. Garrahan** (Nottinghen), **Maksym Serbyn** (ISTA), **Felix Flicker** (Cardiff), **Luca Tagliacozzo** (CSIC), **Philippe Corboz** (UvA)
 
 
 ### **Location**
