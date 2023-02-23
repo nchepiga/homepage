@@ -64,10 +64,8 @@ Confirmed speakers: Roderich Moessner (MPI PKS), Paul Fendley (Oxford), Juan P. 
 
 ### **Past workshops**
 
-**Symmetry and Duality in Quantum Many-Body Systems**
 
-
-**October 13 2022 at UGhent**
+**October 13 2022 at UGhent: Symmetry and Duality in Quantum Many-Body Systems**
 
 List of speakers: Ian McCulloch (Queensland);
 Karel Van Acoleyen (Ghent);
@@ -77,7 +75,7 @@ Natalia Chepiga (Delft);
 Juan Arias (Amsterdam);
 
 
-**October 12 2022 at TUDelft**
+**October 12 2022 at TUDelft: Symmetry and Duality in Quantum Many-Body Systems**
 
 List of speakers: Kareljan Schoutens (Amsterdam); 
 Hosho Katsura (Tokyo);
