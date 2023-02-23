@@ -41,15 +41,11 @@ Unitary matrix integrals and long range random walks
 
 
 
-[Registration form](https://forms.gle/J1QTZ3JqegpSC8Ws5)
-
-
-
 ### **Location**
 
 **Delft University of Technology**
 
-Room: F 206 and F 461.1/2 
+Room: F 461.1/2 
 
 Kavli Institute of Nanoscience,  **Applied Sciences 22**,
 
@@ -58,7 +54,13 @@ Lorentzweg 1, 2628 CJ Delft,  The Netherlands
 ![Building22](assets/images/delft.svg)
 
 
+### **Future workshop**
 
+[Tensor networks for constrained systems supported by IQTN/EPSRC](https://iqtn.phys.strath.ac.uk/)
+
+16-18 October 2023
+
+Confirmed speakers: Roderich Moessner (MPI PKS), Paul Fendley (Oxford), Juan P. Garrahan (Nottinghen), Maksym Serbyn (ISTA), Felix Flicker (Cardiff), Luca Tagliacozzo (CSIC), Philippe Corboz (UvA)
 
 ### **Past workshops**
 
