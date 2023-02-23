@@ -40,7 +40,7 @@ Unitary matrix integrals and long range random walks
 
 ### **Next workshop**
 
-[Tensor networks for constrained systems supported by IQTN/EPSRC](https://iqtn.phys.strath.ac.uk/)
+[Tensor networks for constrained systems (supported by IQTN/EPSRC)](https://iqtn.phys.strath.ac.uk/tensor-networks-for-constrained-systems/)
 
 16-18 October 2023
 
