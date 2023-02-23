@@ -5,9 +5,8 @@ Delft Many-Body Workshop Series
 
 Understanding collective phenomena in strongly correlated quantum many-body systems is one of the biggest challenges in modern condensed matter physics. Development of efficient computational methods and conformal field theory topped up with the recent progress on cold atoms experiments make the study of low-dimensional strongly correlated systems one of the hottest topics in the field. The goal of this workshop series is to bring together local experts working on various aspects of quantum many-body theory to regenerate the network of scientific connections and to stimulate new collaborations in the area.
 
-### **Next workshop: February 24 2023 at TUDelft**
+### **Disorder, entanglement and localization in strongly-correlated systems: 24 Feb 2023, TUDelft**
 
-**Disorder, entanglement and localization in strongly-correlated systems**
 
 **9:00-10:00 Arrival + Coffee + Discussions**
 
@@ -39,6 +38,13 @@ Scaling, entanglement and physical conformal boundaries in uniform infinite matr
 
 Unitary matrix integrals and long range random walks
 
+### **Next workshop**
+
+[Tensor networks for constrained systems supported by IQTN/EPSRC](https://iqtn.phys.strath.ac.uk/)
+
+16-18 October 2023
+
+Confirmed speakers: Roderich Moessner (MPI PKS), Paul Fendley (Oxford), Juan P. Garrahan (Nottinghen), Maksym Serbyn (ISTA), Felix Flicker (Cardiff), Luca Tagliacozzo (CSIC), Philippe Corboz (UvA)
 
 
 ### **Location**
@@ -53,14 +59,6 @@ Lorentzweg 1, 2628 CJ Delft,  The Netherlands
 
 ![Building22](assets/images/delft.svg)
 
-
-### **Future workshop**
-
-[Tensor networks for constrained systems supported by IQTN/EPSRC](https://iqtn.phys.strath.ac.uk/)
-
-16-18 October 2023
-
-Confirmed speakers: Roderich Moessner (MPI PKS), Paul Fendley (Oxford), Juan P. Garrahan (Nottinghen), Maksym Serbyn (ISTA), Felix Flicker (Cardiff), Luca Tagliacozzo (CSIC), Philippe Corboz (UvA)
 
 ### **Past workshops**
 
