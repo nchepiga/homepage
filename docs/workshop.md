@@ -5,38 +5,6 @@ Delft Many-Body Workshop Series
 
 Understanding collective phenomena in strongly correlated quantum many-body systems is one of the biggest challenges in modern condensed matter physics. Development of efficient computational methods and conformal field theory topped up with the recent progress on cold atoms experiments make the study of low-dimensional strongly correlated systems one of the hottest topics in the field. The goal of this workshop series is to bring together local experts working on various aspects of quantum many-body theory to regenerate the network of scientific connections and to stimulate new collaborations in the area.
 
-### **Disorder, entanglement and localization in strongly-correlated systems: 24 Feb 2023, TUDelft**
-
-
-**9:00-10:00 Arrival + Coffee + Discussions**
-
-**10:00-11:00 Wouter Buijsman (BGU)**
-
-Many-body localization: an introduction and some recent developments
-
-**11:00-12:00 Dmitry Abanin (UniGe)**
-
-Influence matrices, temporal entanglement, and quantum many-body dynamics 
-
-**12:00-13:00 Lunch + Discussions**
-
-**13:00-13:45 Wojciech De Roeck (Leuven)**
-
-TBA
-
-**13:45-14:30 Jiri Minar (Amsterdam)**
-
-Quantum scars: from disorder to holography
-
-**14:30-15:15 Coffee + Discussions**
-
-**15:15-16:00 Rui-Zhen Huang (UGhent)**
-
-Scaling, entanglement and physical conformal boundaries in uniform infinite matrix product states
-
-**16:00-16:45 Ward Vleeshouwers (QuiX Quantum BV, QuSoft)**
-
-Unitary matrix integrals and long range random walks
 
 ### **Next workshop**
 
@@ -44,23 +12,20 @@ Unitary matrix integrals and long range random walks
 
 16-18 October 2023
 
-Confirmed speakers: **Paul Fendley** (Oxford), **Roderich Moessner** (MPI PKS), **Juan P. Garrahan** (Nottinghen), **Maksym Serbyn** (ISTA), **Felix Flicker** (Cardiff), **Luca Tagliacozzo** (CSIC), **Philippe Corboz** (UvA)
+Confirmed speakers: **Paul Fendley** (Oxford), **Roderich Moessner** (MPI PKS), **Juan P. Garrahan** (Nottinghen), **Maksym Serbyn** (ISTA), **Felix Flicker** (Cardiff), **Luca Tagliacozzo** (CSIC), **Philippe Corboz** (UvA), **Fabien Alet** (Toulouse)
 
-
-### **Location**
-
-**Delft University of Technology**
-
-Room: F 461.1/2 
-
-Kavli Institute of Nanoscience,  **Applied Sciences 22**,
-
-Lorentzweg 1, 2628 CJ Delft,  The Netherlands
-
-![Building22](assets/images/delft.svg)
 
 
 ### **Past workshops**
+
+**February 24 2023 at TUDelft: Disorder, entanglement and localization**
+
+Speakers: Wouter Buijsman (BGU);
+Dmitry Abanin (Geneva);
+Wojciech De Roeck (Leuven);
+Jiri Minar (Amsterdam);
+Rui-Zhen Huang (Ghent);
+Ward Vleeshouwers (QuiX, QuSoft)
 
 
 **October 13 2022 at UGhent: Symmetry and Duality in Quantum Many-Body Systems**
@@ -70,7 +35,7 @@ Karel Van Acoleyen (Ghent);
 Jean-Sébastien Caux (Amsterdam);
 Clement Delcamp (Ghent);
 Natalia Chepiga (Delft);
-Juan Arias (Amsterdam);
+Juan Arias (Amsterdam)
 
 
 **October 12 2022 at TUDelft: Symmetry and Duality in Quantum Many-Body Systems**
@@ -114,99 +79,17 @@ Speakers: Kareljan Schoutens (UvA, QuSoft); Laurens Vanderstraeten (UGent); Liev
 
 
 
-### **List of Prticipants**
 
-Frank Verstraete (Ghent)
+### **Location**
 
-Hosho Katsura (Tokyo)
+**Delft University of Technology**
 
-Jutho Haegeman (Ghent)
+Room: F 461.1/2 
 
-Pieter Claeys(Dresden)
+Kavli Institute of Nanoscience,  **Applied Sciences 22**,
 
-Emanuele Di Salvo (Utrecht)
+Lorentzweg 1, 2628 CJ Delft,  The Netherlands
 
-Philippe Corboz (UvA)
-
-Mikael Fremling (UU)
-
-Lars Fritz (UU)
-
-Vladimir Gritsev (UvA)
-
-Juraj Hasik (UvA)
-
-Bernard Nienhuis (Leiden)
-
-Jiri Minar (UvA)
-
-Sander Otte (TUDelft)
-
-Kareljan Schoutens (UvA, Qusoft)
-
-Dirk Schuricht (UU)
-
-Laurens Vanderstraeten (UGent)
-
-Lieven Vandersypen (TUDelft)
-
-Jordi Tura Brugues (Leiden)
-
-Denise Ahmed-Braun (TU Eindhoven)
-
-Juan Diego Arias Espinoza (UvA)
-
-Lieuwe Bakker (UvA)
-
-Evgenii Barts (Groningen)
-
-Yaroslav Blanter (TUDelft)
-
-Liam Bond (UvA)
-
-Mert Bozkurt (TUDelft)
-
-Lander Burgelman (UGent)
-
-Maarten van Damme (UGent)
-
-Jyong-Hao Chen (Leiden)
-
-Lukas Devos (UGent)
-
-Emanuele Di Salvo (UU)
-
-Ivo Gabrovski (Groningen)
-
-Yaroslav Herasymenko (TUDelft, QuSoft)
-
-Onno Huijgen (Radboud)
-
-Rui-Zhen Huang (UGent)
-
-Daan Maertens (UGent)
-
-Antonio Manesco (TUDelft)
-
-Misha Isachenkov (UvA)
-
-Bowy La Riviere (TUDelft)
-
-Sebastian Miles (TUDelft)
-
-Boris Ponsioen (UvA)
-
-Stephan Plugge (Leiden)
-
-Artem Pulkin
-
-Mykola Semenyakin (Leiden)
-
-Jose Soto (TUDelft)
-
-Ward Vleeshouwers (UvA)
-
-Xin Zhang (QuTech, TUDelft)
-
+![Building22](assets/images/delft.svg)
 
 
