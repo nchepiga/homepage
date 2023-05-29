@@ -12,7 +12,7 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 16-18 October 2023
 
-Confirmed speakers: **Paul Fendley** (Oxford), **Roderich Moessner** (MPI PKS), **Juan P. Garrahan** (Nottingham), **Maksym Serbyn** (ISTA), **Felix Flicker** (Cardiff), **Luca Tagliacozzo** (CSIC), **Philippe Corboz** (UvA), **Fabien Alet** (Toulouse), **Mari Carmen Bañuls** (MPQ) 
+Confirmed speakers: **Paul Fendley** (Oxford), **Roderich Moessner** (MPI PKS), **Juan P. Garrahan** (Nottingham), **Maksym Serbyn** (ISTA), **Felix Flicker** (Cardiff), **Luca Tagliacozzo** (CSIC), **Philippe Corboz** (UvA), **Fabien Alet** (CNRS Toulouse), **Mari Carmen Bañuls** (MPQ), **Igor Lesanovsky** (Tuebingen), **Kareljan Schoutens** (UvA), **Jeanne Colbois** (CNRS Toulouse)
 
 
 
