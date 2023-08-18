@@ -19,7 +19,7 @@ Next workshop: [Tensor networks for constrained systems, 16-18 October 2023](htt
 **The group**
 ============
 
-Postdoc position is available. If you are interested contact me by e-mail.
+PhD position is available. If you are interested contact me by e-mail.
 
 ![outing](assets/images/outing.jpg)
 
