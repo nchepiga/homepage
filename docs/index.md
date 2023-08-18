@@ -33,6 +33,18 @@ PhD position is available. If you are interested contact me by e-mail.
 **Research**
 ===========
 
+
+
+### **Critical properties of the Majorana chain**
+
+![majo](assets/images/majo.svg)
+
+[Paper](https://doi.org/10.1103/PhysRevB.108.054509)
+
+
+
+
+
 ### **Floating phase without doping: new surprises from the old model**
 
 ![ktpt](assets/images/KTPT.svg)
