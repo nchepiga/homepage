@@ -24,6 +24,13 @@ PhD position is available. If you are interested contact me by e-mail.
 ![outing](assets/images/outing.jpg)
 
 
+**physicist/mom**
+============
+
+![outing](assets/images/IMG_20230809_200630097.jpg)
+
+
+![outing](assets/images/IMG_20230727_182814206_HDR.jpg)
 
 
 
@@ -102,28 +109,6 @@ PhD position is available. If you are interested contact me by e-mail.
 [paper](https://scipost.org/10.21468/SciPostPhys.11.3.059)
 
 
-
-
-
-
-
-### **8-vertex criticality in the interacting Kitaev chain**
-
-![kitaev](assets/images/PD_NN_U6.svg)
-
-[preprint](https://arxiv.org/abs/2206.11754)
-
-
-
-
-
-
-
-### **Floating phase in spin-3/2 chain**
-
-![Phase diagram](assets/images/spin32.svg)
-
-[paper](https://arxiv.org/abs/2002.08982) 
 
 
 
