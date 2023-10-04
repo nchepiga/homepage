@@ -16,7 +16,7 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 **Program**
 
-Monday, 16 October 2023 – 1st day
+**Monday, 16 October 2023 – 1st day**
 
 9:30-10:15
 **Fabien Alet**, CNRS, Toulouse
@@ -45,6 +45,92 @@ Exact dynamics and hydrophobicity in deterministic circuits: classical and quant
 15:30
 **Posters Sesssion & Discussion**
 
+
+**Tuesday, 17 October 2023 – 2nd day**
+
+9:30-10:15
+**Paul Fendley**
+
+Cracking the Rydberg ladder
+
+
+10:15-11:00
+**Kareljan Schoutens**
+
+From constraints to superfrustration
+
+
+
+11:45-12:30 
+**Roderich Moessner**
+
+Fractonic and Other Spin Liquids from Constraints
+
+
+
+14:00-14:45 
+**Luca Tagliacozzo**
+
+14:45-15:30 
+**Federico Carollo**
+
+Absorbing state phase transitions in quantum cellular automata
+
+
+16:15-17:00 
+**Zlatko Papic**
+
+17:00 
+**Discussions**
+
+
+**Wednesday, 18 October 2023 – 3rd day**
+
+9:30-10:15
+**Philippe Corboz**
+
+10:15-11:00
+**Felix Flicker**
+
+Tensor Networks and Quasicrystals
+
+
+11:45-12:30
+**Jeanne Colbois**
+
+Tensor networks and limits of classical frustrated Ising models
+
+
+
+**Posters**
+
+1. Dirk Schuricht, Long-lived circulating currents in strongly correlated nanorings
+
+2. Marko Ljubotina, Superdiffusive Energy Transport in Kinetically Constrained Models
+
+3. Luke Causer, Scalable simulation of non-equilibrium quantum dynamics via classically optimized unitary circuits
+
+4. Jose Soto Garcia, Kibble-Zurek Mechanism and Finite-Time Scaling in Rydberg arrays
+
+5. Bowy La Riviere, Critical properties of a quantum loop model on a zig-zag ladder
+
+6. Patrick Emonts and Alice Barthe, Tensor Networks for Topological Data Analysis
+
+7. Rui-Zhen Huang, Entanglement viewpoint of non-equilibrium critical dynamics
+
+8. Alberto Zorzato, Integrable supersymmetric quantum circuits
+
+9. Luisa Eck, Critical lines and ordered phases in a Rydberg-blockade ladder
+
+10. Samuel Nyckees, Critical line of the triangular Ising antiferromagnet in a field from a C3-symmetric corner transfer matrix algorithm
+
+11. María Cea Fernández, Exploring the phase diagram of the quantum one-dimensional ANNNI model
+
+12. Liam Bond and Jiri Minar, Open and constrained dynamics with variational non-Gaussian ansatz
+
+13. Miguel Frías-Pérez, XXX
+
+14. Shobna Singh, XXX
 
 
 
