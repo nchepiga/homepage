@@ -16,7 +16,7 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 **Program**
 
-**Monday, 16 October 2023 – 1st day**
+### **Monday, 16 October 2023 – 1st day**
 
 9:30-10:15
 **Fabien Alet**, CNRS, Toulouse
@@ -46,7 +46,7 @@ Exact dynamics and hydrophobicity in deterministic circuits: classical and quant
 **Posters Sesssion & Discussion**
 
 
-**Tuesday, 17 October 2023 – 2nd day**
+### **Tuesday, 17 October 2023 – 2nd day**
 
 9:30-10:15
 **Paul Fendley**
@@ -84,7 +84,7 @@ Absorbing state phase transitions in quantum cellular automata
 **Discussions**
 
 
-**Wednesday, 18 October 2023 – 3rd day**
+### **Wednesday, 18 October 2023 – 3rd day**
 
 9:30-10:15
 **Philippe Corboz**
@@ -102,7 +102,7 @@ Tensor networks and limits of classical frustrated Ising models
 
 
 
-**Posters**
+### **Posters**
 
 1. Dirk Schuricht, Long-lived circulating currents in strongly correlated nanorings
 
