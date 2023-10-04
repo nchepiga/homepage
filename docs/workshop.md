@@ -6,15 +6,89 @@ Delft Many-Body Workshop Series
 Understanding collective phenomena in strongly correlated quantum many-body systems is one of the biggest challenges in modern condensed matter physics. Development of efficient computational methods and conformal field theory topped up with the recent progress on cold atoms experiments make the study of low-dimensional strongly correlated systems one of the hottest topics in the field. The goal of this workshop series is to bring together local experts working on various aspects of quantum many-body theory to regenerate the network of scientific connections and to stimulate new collaborations in the area.
 
 
-### **Next workshop**
 
-[Tensor networks for constrained systems (supported by IQTN/EPSRC)](https://iqtn.phys.strath.ac.uk/tensor-networks-for-constrained-systems/)
+
+### **Tensor Networks for Constrained Systems**
 
 16-18 October 2023
 
-Confirmed speakers: **Paul Fendley** (Oxford), **Roderich Moessner** (MPI PKS), **Juan P. Garrahan** (Nottingham), **Maksym Serbyn** (ISTA), **Felix Flicker** (Cardiff), **Luca Tagliacozzo** (CSIC), **Philippe Corboz** (UvA), **Fabien Alet** (CNRS Toulouse), **Mari Carmen Bañuls** (MPQ), **Igor Lesanovsky** (Tuebingen), **Kareljan Schoutens** (UvA), **Jeanne Colbois** (CNRS Toulouse)
+[Network web-site](https://iqtn.phys.strath.ac.uk/tensor-networks-for-constrained-systems/)
+
+**Program**
+
+Monday, 16 October 2023 – 1st day
+
+9:30-10:15
+**Fabien Alet**, CNRS, Toulouse
+
+Re-entrance effect in the finite-temperature phase diagram of the quantum dimer model on the square lattice
 
 
+10:15-11:00
+**Maksym Serbyn**
+
+From Quantum Many-body Scars to Optimal Steering and Energy Superdiffusion
+
+
+
+11:45-12:30
+**Juan P. Garrahan**
+
+Exact dynamics and hydrophobicity in deterministic circuits: classical and quantum Floquet East models
+
+
+
+14:00-14:45
+**Mari Carmen Banuls**
+
+
+15:30
+**Posters Sesssion & Discussion**
+
+
+
+
+**Participants**
+
+Philippe Corboz; 
+Paul Fendley;
+Maksym Serbyn;
+Felix Flicker;
+Juan P Garrahan;
+Luca Tagliacozzo;
+Roderich Moessner;
+Fabien Alet;
+Zlatko Papic;
+Mari Carmen Banuls;
+Jeanne Colbois;
+Frederico Carollo;
+Kareljan Schoutens;
+J-S Caux;
+Dirk Schuricht;
+Shobna Singh;
+Marko Ljubotina; 
+Luisa Eck;
+Luke Causer;
+Alberto Zorzato;
+Maria Cea Fernández;
+Bowy la Riviere;
+Jose Soto Garcia; 
+Samuel Nyckees;
+Laurens Vanderstraeten; 
+Wojciech de Roek;
+Miguel Frias;
+Andrew Green;
+Stijn Kleijweg;
+Patrick Emonts;
+Alice Barthe;
+Yaroslav Herasymenko;
+Jiri Minar;
+Matthew Steinberg;
+Lieuwe Bakker;
+Liam Bond;
+Rui-Zhen Huang;
+Suvendu Barik;
+Pietro Richelli
 
 ### **Past workshops**
 
