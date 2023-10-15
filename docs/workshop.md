@@ -91,6 +91,8 @@ Absorbing state phase transitions in quantum cellular automata
 9:30-10:15
 **Philippe Corboz**
 
+Finite temperature simulations and excitations with infinite projected entangled-pair states
+
 10:15-11:00
 **Felix Flicker**
 
@@ -171,7 +173,8 @@ Lieuwe Bakker;
 Liam Bond;
 Rui-Zhen Huang;
 Suvendu Barik;
-Pietro Richelli
+Pietro Richelli;
+
 
 ### **Past workshops**
 
