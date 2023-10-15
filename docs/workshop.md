@@ -25,9 +25,9 @@ Re-entrance effect in the finite-temperature phase diagram of the quantum dimer 
 
 
 10:15-11:00
-**Maksym Serbyn**
+**Zlatko Papic**
 
-From Quantum Many-body Scars to Optimal Steering and Energy Superdiffusion
+Weak ergodicity breaking, many-body scars and superdiffusive energy transport in the PXP model
 
 
 
@@ -40,6 +40,8 @@ Exact dynamics and hydrophobicity in deterministic circuits: classical and quant
 
 14:00-14:45
 **Mari Carmen Banuls**
+
+Energy filters, tensor networks and dynamical properties
 
 
 15:30
@@ -78,7 +80,7 @@ Absorbing state phase transitions in quantum cellular automata
 
 
 16:15-17:00 
-**Zlatko Papic**
+**Laurens Vanderstraeten**
 
 17:00 
 **Discussions**
@@ -122,16 +124,11 @@ Tensor networks and limits of classical frustrated Ising models
 
 9. Luisa Eck, Critical lines and ordered phases in a Rydberg-blockade ladder
 
-10. Samuel Nyckees, Critical line of the triangular Ising antiferromagnet in a field from a C3-symmetric corner transfer matrix algorithm
+10. María Cea Fernández, Exploring the phase diagram of the quantum one-dimensional ANNNI model
 
-11. María Cea Fernández, Exploring the phase diagram of the quantum one-dimensional ANNNI model
+11. Liam Bond and Jiri Minar, Open and constrained dynamics with variational non-Gaussian ansatz
 
-12. Liam Bond and Jiri Minar, Open and constrained dynamics with variational non-Gaussian ansatz
-
-13. Miguel Frías-Pérez, XXX
-
-14. Shobna Singh, XXX
-
+12. Shobna Singh, Quantum dimer model on a two-dimensional quasicrystal using MPS-DMRG
 
 
 **Participants**
