@@ -74,13 +74,15 @@ Fractonic and Other Spin Liquids from Constraints
 **Luca Tagliacozzo**
 
 14:45-15:30 
+**Laurens Vanderstraeten**
+
+Finite entanglement scaling and tensor networks
+
+16:15-17:00 
 **Federico Carollo**
 
 Absorbing state phase transitions in quantum cellular automata
 
-
-16:15-17:00 
-**Laurens Vanderstraeten**
 
 17:00 
 **Discussions**
