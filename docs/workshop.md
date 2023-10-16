@@ -14,7 +14,7 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 [Network web-site](https://iqtn.phys.strath.ac.uk/tensor-networks-for-constrained-systems/)
 
-**Program**
+[**Program**](assets/Program Workshop 'Tensor Networks for Constraint Systems' Delft, Oct 2023_new.pdf)
 
 ### **Monday, 16 October 2023 – 1st day**
 
@@ -77,6 +77,7 @@ Fractonic and Other Spin Liquids from Constraints
 **Laurens Vanderstraeten**
 
 Finite entanglement scaling and tensor networks
+
 
 16:15-17:00 
 **Federico Carollo**
