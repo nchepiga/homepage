@@ -46,6 +46,7 @@ PhD position is available. If you are interested contact me by e-mail.
 ![multi](assets/images/multi.svg)
 
 [Pre-print](https://arxiv.org/pdf/2308.12838.pdf)
+and the one on [the chiral Ashkin-Teller model](https://arxiv.org/pdf/2308.07144.pdf)
 
 
 
@@ -54,7 +55,7 @@ PhD position is available. If you are interested contact me by e-mail.
 ![majo](assets/images/majo.svg)
 
 [Paper](https://doi.org/10.1103/PhysRevB.108.054509)
-and [another one] (https://scipost.org/10.21468/SciPostPhys.14.6.152)
+and [another one](https://scipost.org/10.21468/SciPostPhys.14.6.152)
 
 
 
