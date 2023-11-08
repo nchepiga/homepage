@@ -41,6 +41,13 @@ PhD position is available. If you are interested contact me by e-mail.
 ===========
 
 
+### **Tunable quantum criticality in Rydberg atoms**
+
+![multi](assets/images/multi.svg)
+
+[Pre-print](https://arxiv.org/pdf/2308.12838.pdf)
+
+
 
 ### **Critical properties of the Majorana chain**
 
