@@ -54,7 +54,7 @@ PhD position is available. If you are interested contact me by e-mail.
 ![majo](assets/images/majo.svg)
 
 [Paper](https://doi.org/10.1103/PhysRevB.108.054509)
-
+and [another one] (https://scipost.org/10.21468/SciPostPhys.14.6.152)
 
 
 
@@ -90,7 +90,7 @@ PhD position is available. If you are interested contact me by e-mail.
 [Video seminar](https://www.youtube.com/watch?v=zOzUTW-IZoE&t=955s), 
 [Nature Communications](https://www.nature.com/articles/s41467-020-20641-y),
 [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.017205)  and 
-[the new preprint](https://arxiv.org/abs/2203.01163)
+[PRR](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043102)
 
 
 
