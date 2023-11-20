@@ -33,7 +33,7 @@ Bernhard Lüscher (now PhD student at the University of Zurich)
 
 01/11/2021 Jose Soto Garcia joins the group
 
-01/01/2021 Natalia joins the [European Tensor Network](https://quantumtensor.pks.mpg.de)
+01/01/2021 Natalia joins the [European Tensor Network](https://nextcloud.tfk.ph.tum.de/etn/)
 
 
 
