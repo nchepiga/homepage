@@ -17,20 +17,27 @@ Bernhard Lüscher (now PhD student at the University of Zurich)
 
 19/10/2023 Our paper with Bernhard will appear in [PRB](https://journals.aps.org/prb/accepted/55078O68U7d1f548b53e3066e9a24a0f388df80e7)
 
-17/10/2023 Bowy won poster prize at the workshop "Tensor Network for Constrained systems", The Netherlands
+17/10/2023 Bowy won poster prize at the international workshop "Tensor Network for Constrained systems", The Netherlands
 
 29/09/2023 Jose won poster prize at the Fall School "Topological Quantum Matter", Germany
+
+07/02/2023 Natalia got IQTN funding for the workshop "Tensor Network for Constrained systems"
 
 01/01/2023 Natalia was awarded a visiting professorship at CNRS, Toulouse
 
 15/03/2022 Bowy La Riviere joins the group
 
+15/02/2022 International qunatum tensor network got funding from EPSRC
+
+15/11/2021 Natalia was awarded [Minerva prize](https://dutchphysicscouncil.nl/613-4/)
+
 01/11/2021 Jose Soto Garcia joins the group
 
+01/01/2021 Natalia joins the [European Tensor Network](https://quantumtensor.pks.mpg.de)
 
 
 
-### **Location**
+### **Visit us**
 
 **Delft University of Technology**
 
