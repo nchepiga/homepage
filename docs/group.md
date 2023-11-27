@@ -15,7 +15,7 @@ Bernhard Lüscher (now PhD student at the University of Zurich)
 
 ### **News**
 
-19/10/2023 Our paper with Bernhard will appear in [PRB](https://journals.aps.org/prb/accepted/55078O68U7d1f548b53e3066e9a24a0f388df80e7)
+19/10/2023 Our paper with Bernhard is published in [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.184425)
 
 17/10/2023 Bowy won poster prize at the international workshop "Tensor Network for Constrained systems", The Netherlands
 
