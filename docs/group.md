@@ -15,8 +15,8 @@ Bernhard Lüscher (now PhD student at the University of Zurich)
 
 ### **News**
 
-29/11/2023 Article about my research by Kenna Hughes-Castleberry for  “Women of Quantum Technology”(is published](
-https://www.insidequantumtechnology.com/news-archive/women-of-quantum-technology-dr-natalia-chepiga-of-delft-university-of-technology/)
+29/11/2023 Article by Kenna Hughes-Castleberry for  [“Women of Quantum Technology”](
+https://www.insidequantumtechnology.com/news-archive/women-of-quantum-technology-dr-natalia-chepiga-of-delft-university-of-technology/) is published
 
 19/10/2023 Our paper with Bernhard is published in [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.184425)
 
