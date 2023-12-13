@@ -15,7 +15,9 @@ Bernhard Lüscher (now PhD student at the University of Zurich)
 
 ### **News**
 
-29/11/2023 Article by Kenna Hughes-Castleberry for  [“Women of Quantum Technology”](
+11/12/2023 Natalia was awarded a reseach grant by [Julian Schwinger Foundation (USA)](https://schwingerfoundation.org/awardedgrants.php)
+
+29/11/2023 Kenna Hughes-Castleberry wrote an article about Natalia's research for [“Women of Quantum Technology”](
 https://www.insidequantumtechnology.com/news-archive/women-of-quantum-technology-dr-natalia-chepiga-of-delft-university-of-technology/) is published
 
 19/10/2023 Our paper with Bernhard is published in [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.184425)
@@ -29,8 +31,6 @@ https://www.insidequantumtechnology.com/news-archive/women-of-quantum-technology
 01/01/2023 Natalia was awarded a visiting professorship at CNRS, Toulouse
 
 15/03/2022 Bowy La Riviere joins the group
-
-15/02/2022 International qunatum tensor network got funding from EPSRC
 
 15/11/2021 Natalia was awarded [Minerva prize](https://dutchphysicscouncil.nl/613-4/)
 
