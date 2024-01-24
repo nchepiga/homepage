@@ -45,8 +45,7 @@ If you are interested in joining the group contact me by e-mail.
 
 ![multi](assets/images/multi.svg)
 
-[Pre-print](https://arxiv.org/pdf/2308.12838.pdf)
-and the one on [the chiral Ashkin-Teller model](https://arxiv.org/pdf/2308.07144.pdf)
+[Paper](https://journals.aps.org/prl/accepted/6207cY47Wd410f8442008bd42da36a9eae44c216a) and the [pre-print](https://arxiv.org/pdf/2308.12838.pdf) and the paper on [the chiral Ashkin-Teller model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.184425)
 
 
 
@@ -54,8 +53,9 @@ and the one on [the chiral Ashkin-Teller model](https://arxiv.org/pdf/2308.07144
 
 ![majo](assets/images/majo.svg)
 
-[Paper](https://doi.org/10.1103/PhysRevB.108.054509)
-and [another one](https://scipost.org/10.21468/SciPostPhys.14.6.152)
+[PRL](https://journals.aps.org/prl/accepted/5907eY27Sd01be87d79a48c1f5c1004c1fabb14a9)
+and [PRB](https://doi.org/10.1103/PhysRevB.108.054509)
+and [SciPost](https://scipost.org/10.21468/SciPostPhys.14.6.152)
 
 
 
