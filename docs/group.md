@@ -3,7 +3,8 @@ The group
 
 ![outing](assets/images/outing.jpg)
 
-**Current group members:**
+
+**Graduate students:**
 
 Jose Soto Garcia 
 
@@ -13,6 +14,11 @@ Julien Fitouchi
  
 Pietro Richelli
 
+**Undergraduate students:**
+
+Rik Mulder
+
+Wesley Brouwer (together with Dr.J. Thies)
 
 **Former group members:**
 
