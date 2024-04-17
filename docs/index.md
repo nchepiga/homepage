@@ -41,6 +41,15 @@ If you are interested in joining the group contact me by e-mail.
 ===========
 
 
+### **Wess-Zumino-Witten transitions in a frustrated spin-3 chain**
+
+![su26](assets/images/SU26.svg)
+
+[Pre-print](https://arxiv.org/pdf/2402.05031.pdf)
+
+
+
+
 ### **Tunable quantum criticality in Rydberg atoms**
 
 ![multi](assets/images/multi.svg)
