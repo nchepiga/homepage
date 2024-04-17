@@ -18,7 +18,7 @@ Pietro Richelli
 
 Rik Mulder
 
-Wesley Brouwer (together with Dr.J. Thies)
+Wesley Brouwer (together with Dr.J.Thies)
 
 **Former group members:**
 
@@ -26,9 +26,11 @@ Bernhard Lüscher (now PhD student at the University of Zurich)
 
 ### **News**
 
-23/01/2024 My paper on Tunable quantum phase transitions has been accepted by [PRL](https://journals.aps.org/prl/accepted/6207cY47Wd410f8442008bd42da36a9eae44c216a)
+01/05/2024 Exciting news are coming, stay tuned
 
-05/01/2024 Our paper with Nicolas Laflorencie on Resilient infinite randomness in Majorana chains has been accepted by [PRL](https://journals.aps.org/prl/accepted/5907eY27Sd01be87d79a48c1f5c1004c1fabb14a9)
+23/01/2024 My paper on Tunable quantum phase transitions has been published in [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076505)
+
+05/01/2024 Our paper with Nicolas Laflorencie on Resilient infinite randomness in Majorana chains has been published in [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.056502)
 
 01/01/2024 Pietro Richelli and Julien Fitouchi join the group
 
