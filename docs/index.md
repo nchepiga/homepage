@@ -3,7 +3,7 @@ Natalia Chepiga
 
 Email: n.chepiga@tudelft.nl
 
-[CV](https://nchepiga.github.io/homepage/assets/CV.pdf) and
+[CV](https://nchepiga.github.io/homepage/assets/CV_Chepiga.pdf) and
 [GoogleScholar](https://scholar.google.ch/citations?user=oktle5oAAAAJ&hl=de&oi=ao)
 
 ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
@@ -16,7 +16,7 @@ workshop: [Tensor networks for constrained systems, 16-18 October 2023](https://
 
 ![Workshop1](assets/images/workshop4.jpg)
 
-[**The group**](https://nchepiga.github.io/homepage/group)
+[**The group / News**](https://nchepiga.github.io/homepage/group)
 ============
 
 If you are interested in joining the group contact me by e-mail.

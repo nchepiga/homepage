@@ -26,7 +26,7 @@ Bernhard Lüscher (now PhD student at the University of Zurich)
 
 ### **News**
 
-01/05/2024 Exciting news are coming, stay tuned
+01/05/2024 I joined APS as an Associate Editor of [PhysRevResearch](https://journals.aps.org/prresearch/staff)
 
 23/01/2024 My paper on Tunable quantum phase transitions has been published in [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076505)
 
