@@ -12,7 +12,7 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 [**Delft Many-Body Workshop Series**](https://nchepiga.github.io/homepage/workshop)
 ============
 
-workshop: [Tensor networks for constrained systems, 16-18 October 2023](https://iqtn.phys.strath.ac.uk/tensor-networks-for-constrained-systems/)
+[Next workshop: Quantum Magnetism, 2 Oct 2024... stay tuned](https://iqtn.phys.strath.ac.uk/tensor-networks-for-constrained-systems/)
 
 ![Workshop1](assets/images/workshop4.jpg)
 
