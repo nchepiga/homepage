@@ -7,185 +7,38 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 
 
+### **Quantum Magnetism**
 
-### **Tensor Networks for Constrained Systems**
+October 2 2024 at TUDelft
 
-16-18 October 2023
+[Registration form](https://forms.gle/f2bKZtLdmW9iVppg9)
 
-[Network web-site](https://iqtn.phys.strath.ac.uk/tensor-networks-for-constrained-systems/)
+Speakers:
 
-[**Program**](assets/Program Workshop 'Tensor Networks for Constraint Systems' Delft, Oct 2023_new.pdf)
+**Paul McClarty** (MPI PKS and CEA Saclay)
 
-### **Monday, 16 October 2023 – 1st day**
+**Andrew Green** (UCL)
 
-9:30-10:15
-**Fabien Alet**, CNRS, Toulouse
+**Alexander Khajetoorians** (Radboud)
 
-Re-entrance effect in the finite-temperature phase diagram of the quantum dimer model on the square lattice
+**Sander Otte** (Delft)
 
+**Juraj Hasik** (Zurich)
 
-10:15-11:00
-**Zlatko Papic**
-
-Weak ergodicity breaking, many-body scars and superdiffusive energy transport in the PXP model
-
-
-
-11:45-12:30
-**Juan P. Garrahan**
-
-Exact dynamics and hydrophobicity in deterministic circuits: classical and quantum Floquet East models
-
-
-
-14:00-14:45
-**Mari Carmen Banuls**
-
-Energy filters, tensor networks and dynamical properties
-
-
-15:30
-**Posters Sesssion & Discussion**
-
-
-### **Tuesday, 17 October 2023 – 2nd day**
-
-9:30-10:15
-**Paul Fendley**
-
-Cracking the Rydberg ladder
-
-
-10:15-11:00
-**Kareljan Schoutens**
-
-From constraints to superfrustration
-
-
-
-11:45-12:30 
-**Roderich Moessner**
-
-Fractonic and Other Spin Liquids from Constraints
-
-
-
-14:00-14:45 
-**Luca Tagliacozzo**
-
-14:45-15:30 
-**Laurens Vanderstraeten**
-
-Finite entanglement scaling and tensor networks
-
-
-16:15-17:00 
-**Federico Carollo**
-
-Absorbing state phase transitions in quantum cellular automata
-
-
-17:00 
-**Discussions**
-
-
-### **Wednesday, 18 October 2023 – 3rd day**
-
-9:30-10:15
-**Philippe Corboz**
-
-Finite temperature simulations and excitations with infinite projected entangled-pair states
-
-10:15-11:00
-**Felix Flicker**
-
-Tensor Networks and Quasicrystals
-
-
-11:45-12:30
-**Jeanne Colbois**
-
-Tensor networks and limits of classical frustrated Ising models
-
-
-
-### **Posters**
-
-1. Dirk Schuricht, Long-lived circulating currents in strongly correlated nanorings
-
-2. Marko Ljubotina, Superdiffusive Energy Transport in Kinetically Constrained Models
-
-3. Luke Causer, Scalable simulation of non-equilibrium quantum dynamics via classically optimized unitary circuits
-
-4. Jose Soto Garcia, Kibble-Zurek Mechanism and Finite-Time Scaling in Rydberg arrays
-
-5. Bowy La Riviere, Critical properties of a quantum loop model on a zig-zag ladder
-
-6. Patrick Emonts and Alice Barthe, Tensor Networks for Topological Data Analysis
-
-7. Rui-Zhen Huang, Entanglement viewpoint of non-equilibrium critical dynamics
-
-8. Alberto Zorzato, Integrable supersymmetric quantum circuits
-
-9. Luisa Eck, Critical lines and ordered phases in a Rydberg-blockade ladder
-
-10. María Cea Fernández, Exploring the phase diagram of the quantum one-dimensional ANNNI model
-
-11. Liam Bond and Jiri Minar, Open and constrained dynamics with variational non-Gaussian ansatz
-
-12. Shobna Singh, Quantum dimer model on a two-dimensional quasicrystal using MPS-DMRG
-
-
-**Participants**
-
-Philippe Corboz; 
-Paul Fendley;
-Maksym Serbyn;
-Felix Flicker;
-Juan P Garrahan;
-Luca Tagliacozzo;
-Roderich Moessner;
-Fabien Alet;
-Zlatko Papic;
-Mari Carmen Banuls;
-Jeanne Colbois;
-Frederico Carollo;
-Kareljan Schoutens;
-J-S Caux;
-Dirk Schuricht;
-Shobna Singh;
-Marko Ljubotina; 
-Luisa Eck;
-Luke Causer;
-Alberto Zorzato;
-Maria Cea Fernández;
-Bowy la Riviere;
-Jose Soto Garcia; 
-Samuel Nyckees;
-Laurens Vanderstraeten; 
-Wojciech de Roek;
-Miguel Frias;
-Andrew Green;
-Stijn Kleijweg;
-Patrick Emonts;
-Alice Barthe;
-Yaroslav Herasymenko;
-Jiri Minar;
-Matthew Steinberg;
-Lieuwe Bakker;
-Liam Bond;
-Rui-Zhen Huang;
-Suvendu Barik;
-Pietro Richelli;
-Katya Fouka;
-Jos Thijssen;
-Matthijs Ates;
-David Berenstein;
-Yining Zhang
-
-
+This workshop is supported by NWO.
 
 ### **Past workshops**
+
+**16-18 October 2023, TUDelft: Tensor Networks for Constrained Systems**
+Speakers:
+Fabien Alet(CNRS, Toulouse); Zlatko Papic (Leeds);
+Juan P. Garrahan (Nottingham); Mari Carmen Banuls (MPQ); Paul Fendley (Oxford);
+Kareljan Schoutens (UvA); Roderich Moessner (MPI PKS); Luca Tagliacozzo (Madrid);
+Laurens Vanderstraeten (Ghent); Federico Carollo (Tuebingen); Philippe Corboz (UvA);
+Felix Flicker (Cardiff);  Jeanne Colbois (CNRS, Toulouse)
+
+This workshop has been supported by [IQTN/EPSRC](https://iqtn.phys.strath.ac.uk/tensor-networks-for-constrained-systems/)
+
 
 **February 24 2023 at TUDelft: Disorder, entanglement and localization**
 

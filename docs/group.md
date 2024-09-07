@@ -16,15 +16,16 @@ Pietro Richelli
 
 **Undergraduate students:**
 
-Rik Mulder
-
-Wesley Brouwer (together with Dr.J. Thies)
+Niels Pronk
 
 **Former group members:**
 
+Rik Mulder (continues his studies at TUDelft)
 Bernhard Lüscher (now PhD student at the University of Zurich)
 
 ### **News**
+
+06/2024 Niels Pronk joins the group
 
 23/01/2024 My paper on Tunable quantum phase transitions has been accepted by [PRL](https://journals.aps.org/prl/accepted/6207cY47Wd410f8442008bd42da36a9eae44c216a)
 
@@ -39,9 +40,9 @@ https://www.insidequantumtechnology.com/news-archive/women-of-quantum-technology
 
 19/10/2023 Our paper with Bernhard Luescher is published in [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.184425)
 
-17/10/2023 Bowy won poster prize at the international workshop "Tensor Network for Constrained systems", The Netherlands
+17/10/2023 Bowy won a poster prize at the international workshop "Tensor Network for Constrained systems", The Netherlands
 
-29/09/2023 Jose won poster prize at the Fall School "Topological Quantum Matter", Germany
+29/09/2023 Jose won a poster prize at the Fall School "Topological Quantum Matter", Germany
 
 07/02/2023 I got IQTN funding for the workshop "Tensor Network for Constrained systems"
 
