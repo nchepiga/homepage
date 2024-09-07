@@ -16,17 +16,20 @@ Pietro Richelli
 
 **Undergraduate students:**
 
-Rik Mulder
-
-Wesley Brouwer (together with Dr.J.Thies)
+Niels Pronk
 
 **Former group members:**
 
+Rik Mulder (continues his studies at TUDelft)
 Bernhard Lüscher (now PhD student at the University of Zurich)
 
 ### **News**
 
+06/2024 Niels Pronk joins the group
+
 01/05/2024 I joined APS as an Associate Editor of [PhysRevResearch](https://journals.aps.org/prresearch/staff)
+
+23/01/2024 My paper on Tunable quantum phase transitions has been accepted by [PRL](https://journals.aps.org/prl/accepted/6207cY47Wd410f8442008bd42da36a9eae44c216a)
 
 23/01/2024 My paper on Tunable quantum phase transitions has been published in [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076505)
 
