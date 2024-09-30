@@ -11,19 +11,32 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 October 2 2024 at TUDelft
 
-[Registration form](https://forms.gle/f2bKZtLdmW9iVppg9)
+Program:
 
-Speakers:
+08:00-09:30 Arrival + coffee
 
-**Paul McClarty** (MPI PKS and CEA Saclay)
+09:30-10:20 **Paul McClarty** (MPI PKS and CEA Saclay)
 
-**Andrew Green** (UCL)
+10:20-11:10 **Alexander Khajetoorians** (Radboud)
 
-**Alexander Khajetoorians** (Radboud)
+11:10-11:40 Coffee
 
-**Sander Otte** (Delft)
+11:40-12:30 **Andrew Green** (UCL)
 
-**Juraj Hasik** (Zurich)
+12:30-13:30 Lunch + Posters
+
+13:30-14:20 **Sander Otte** (Delft)
+
+14:20-15:00 **Juraj Hasik** (Zurich)
+
+15:00-15:30 Coffee
+
+15:30-16:00 **Bowy La Riviere** (Delft)
+
+16:00-16:30 **Valentina Errani** (Utrecht)
+
+16:30 – Discussions & Departure
+
 
 This workshop is supported by NWO.
 
