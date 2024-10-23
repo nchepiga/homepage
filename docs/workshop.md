@@ -7,40 +7,38 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 
 
-### **Quantum Magnetism**
+### **Quantum Field Theory and Boundary Critical Phenomena**
 
-October 2 2024 at TUDelft
+December 4 2024 at TUDelft. [Registration is now open](https://docs.google.com/forms/d/e/1FAIpQLSfyTg5-J36g6ktsmHLX3sCHE02KjThzmLzMJsK_MLVV-Wf30Q/viewform?usp=sf_link)
 
-Program:
+Confirmed speakers:
 
-08:00-09:30 Arrival + coffee
+Hong-Hao Tu (LMU)
 
-09:30-10:20 **Paul McClarty** (MPI PKS and CEA Saclay)
+Edmond Orignac (ENS Lyon)
 
-10:20-11:10 **Alexander Khajetoorians** (Radboud)
+Atsushi Ueda (Ghent)
 
-11:10-11:40 Coffee
+Malte Roesner (Radboud)
 
-11:40-12:30 **Andrew Green** (UCL)
+Rembert Duine (Utrecht)
 
-12:30-13:30 Lunch + Posters
+Tong Liu (LMU)
 
-13:30-14:20 **Sander Otte** (Delft)
+Emanuele Di Salvo (Utrecht)
 
-14:20-15:00 **Juraj Hasik** (Zurich)
-
-15:00-15:30 Coffee
-
-15:30-16:00 **Bowy La Riviere** (Delft)
-
-16:00-16:30 **Valentina Errani** (Utrecht)
-
-16:30 – Discussions & Departure
 
 
 This workshop is supported by NWO.
 
 ### **Past workshops**
+
+**2 October 2024, TUDelft: Quantum Magnetism**
+Speakers:
+Paul McClarty(CNRS & LLB CEA/CNRS); Alexander Khajetoorians(Radboud); Andrew Green(UCL);
+Sander Otte(Delft); Juraj Hasik(Zurich); Bowy La Riviere(Delft).
+
+This workshop has been supported by NWO.
 
 **16-18 October 2023, TUDelft: Tensor Networks for Constrained Systems**
 Speakers:

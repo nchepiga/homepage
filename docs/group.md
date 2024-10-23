@@ -21,15 +21,17 @@ Niels Pronk
 **Former group members:**
 
 Rik Mulder (continues his studies at TUDelft)
-Bernhard Lüscher (now PhD student at the University of Zurich)
+Bernhard Lüscher (now a PhD student at the University of Zurich)
 
 ### **News**
+
+21/10/2024 Bowy's paper has been accepted by [SciPost Physics](https://scipost.org/submissions/2406.20093v2/)
+
+09/09/2024 Jose's paper has been published in [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.125113)
 
 06/2024 Niels Pronk joins the group
 
 01/05/2024 I joined APS as an Associate Editor of [PhysRevResearch](https://journals.aps.org/prresearch/staff)
-
-23/01/2024 My paper on Tunable quantum phase transitions has been accepted by [PRL](https://journals.aps.org/prl/accepted/6207cY47Wd410f8442008bd42da36a9eae44c216a)
 
 23/01/2024 My paper on Tunable quantum phase transitions has been published in [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076505)
 
@@ -37,7 +39,7 @@ Bernhard Lüscher (now PhD student at the University of Zurich)
 
 01/01/2024 Pietro Richelli and Julien Fitouchi join the group
 
-11/12/2023 I was awarded a reseach grant by [Julian Schwinger Foundation (USA)](https://schwingerfoundation.org/awardedgrants.php)
+11/12/2023 I was awarded a research grant by [Julian Schwinger Foundation (USA)](https://schwingerfoundation.org/awardedgrants.php)
 
 29/11/2023 Kenna Hughes-Castleberry wrote an article about my research for [“Women of Quantum Technology”](
 https://www.insidequantumtechnology.com/news-archive/women-of-quantum-technology-dr-natalia-chepiga-of-delft-university-of-technology/)
