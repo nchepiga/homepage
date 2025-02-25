@@ -7,7 +7,7 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 
 
-### **Non-equilibrium phenomena **
+### **Non-equilibrium phenomena**
 
 April 14 2025 at TUDelft.
 
