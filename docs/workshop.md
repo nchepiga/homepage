@@ -7,38 +7,33 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 
 
-### **Quantum Field Theory and Boundary Critical Phenomena**
+### **Non-equilibrium phenomena **
 
-December 4 2024 at TUDelft.
+April 14 2025 at TUDelft.
 
-The program:
+Registration is [open](https://forms.gle/juZnFWnCj1n1XePH8) 
 
-09:15-10:00 **Edmond Orignac**
+Speakers: 
 
-10:00-10:45 **Atsushi Ueda**
+Vladimir Gritsev (UvA)
 
-10:45-11:15 Coffee
+Jacopo de Nardis (Cergy)
 
-11:15-12:00 **Hong-Hao Tu**
+Tim Taminiau (Delft)
 
-12:00-12:30 **Francesco Parisen Toldin**
+Jose Soto Garcia (Delft)
 
-12:30-14:00 Lunch + Poster session
-
-14:00-14:45 **Rembert Duine**
-
-14:45-15:15 **Emanuele Di Salvo**
-
-15:15-15:45 Coffee
-
-15:45-16:15 **Tong Liu**
-
-16:15-16:45 **Vladimir Bashmakov**
+...
 
 
 This workshop is supported by NWO.
 
 ### **Past workshops**
+
+**4 December 2024, TUDelft: Quantum Field Theory and Boundary Critical Phenomena**
+Speakers:
+Edmond Orignac (Lyon), Atsushi Ueda (Ghent), Hong-Hao Tu (LMU), Francesco Parisen Toldin (Aachen), Rembert Duine (Utrecht), Emanuele Di Salvo (Utrecht), Tong Liu (LMU),  Vladimir Bashmakov (Nijmegen).
+This workshop has been supported by NWO.
 
 **2 October 2024, TUDelft: Quantum Magnetism**
 Speakers:
