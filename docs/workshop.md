@@ -17,6 +17,10 @@ Speakers:
 
 Vladimir Gritsev (UvA)
 
+Chris Turner (UCL)
+
+Jens Bardarson (KTH Stockholm, TBC) 
+
 Jacopo de Nardis (Cergy)
 
 Tim Taminiau (Delft)
