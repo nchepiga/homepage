@@ -19,7 +19,7 @@ Vladimir Gritsev (UvA)
 
 Chris Turner (UCL)
 
-Jens Bardarson (KTH Stockholm, TBC) 
+Jens Bardarson (KTH Stockholm) 
 
 Jacopo de Nardis (Cergy)
 
