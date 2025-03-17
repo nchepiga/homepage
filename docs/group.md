@@ -1,7 +1,7 @@
 The group
 ===============================
 
-![outing](assets/images/outing.jpg)
+![outing](assets/images/group2024.jpg)
 
 
 **Graduate students:**
