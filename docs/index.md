@@ -21,7 +21,7 @@ workshop: [Quantum Field Theory and Boundary Critical Phenomena, 4 December 2024
 
 If you are interested in joining the group contact me by e-mail.
 
-![outing](assets/images/outing.jpg)
+![outing](assets/images/group2024.jpg)
 
 
 **physicist/mom**
