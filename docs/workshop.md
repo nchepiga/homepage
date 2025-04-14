@@ -11,23 +11,41 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 April 14 2025 at TUDelft.
 
-Registration is [open](https://forms.gle/juZnFWnCj1n1XePH8) 
+08:30-09:30 Coffee
 
-Speakers: 
+**09:30-10:15 Jacopo De Nardis**
 
-Vladimir Gritsev (UvA)
+Understanding Quantum Many-Body Dynamics Through Ensembles of Tensor Networks
 
-Chris Turner (UCL)
+**10:15-11:00 Vladimir Gritsev**
 
-Jens Bardarson (KTH Stockholm) 
+Non-equilibrium many-body quantum systems related to conformal field theories 
 
-Jacopo de Nardis (Cergy)
+11:00-11:30 Coffee
 
-Tim Taminiau (Delft)
+**11:30-12:15 Jens Bardarson**
 
-Jose Soto Garcia (Delft)
+The information lattice
 
-...
+12:15-13:30 Lunch
+
+**13:30-14:15 Chris Turner**
+
+**14:15-14:45 Jiri Minar**
+
+Non-Gaussian variational ansatz for closed and open spin-boson systems: From fast quantum state preparation to ion cooling
+
+**14:45-15:15 Jose Soto Garcia**
+
+Resolving chiral transitions in Rydberg arrays: Kibble-Zurek and finite-time scaling
+
+15:15-15:45 Coffee
+
+**15:45-16:30 Tim Taminiau**
+
+**16:30-17:00 Suvendu Barik**
+
+Time-dependent Richardson-Gaudin (RG) Hamiltonians
 
 
 This workshop is supported by NWO.
