@@ -7,50 +7,28 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 
 
-### **Non-equilibrium phenomena**
+### **Synthetic quantum matter**
 
-April 14 2025 at TUDelft.
+**27-28 August 2025**
 
-08:30-09:30 Coffee
+Speakers:
 
-**09:30-10:15 Jacopo De Nardis**
+Jonathan Pritchard (Strathclyde)
 
-Understanding Quantum Many-Body Dynamics Through Ensembles of Tensor Networks
+Cristiane de Morais Smith (Utrecht)
 
-**10:15-11:00 Vladimir Gritsev**
+Sara Murciano (Paris-Saclay)
 
-Non-equilibrium many-body quantum systems related to conformal field theories 
-
-11:00-11:30 Coffee
-
-**11:30-12:15 Jens Bardarson**
-
-The information lattice
-
-12:15-13:30 Lunch
-
-**13:30-14:15 Chris Turner**
-
-**14:15-14:45 Jiri Minar**
-
-Non-Gaussian variational ansatz for closed and open spin-boson systems: From fast quantum state preparation to ion cooling
-
-**14:45-15:15 Jose Soto Garcia**
-
-Resolving chiral transitions in Rydberg arrays: Kibble-Zurek and finite-time scaling
-
-15:15-15:45 Coffee
-
-**15:45-16:30 Tim Taminiau**
-
-**16:30-17:00 Suvendu Barik**
-
-Time-dependent Richardson-Gaudin (RG) Hamiltonians
-
+Lieven Vandersypen (QuTech Delft) - TBC
 
 This workshop is supported by NWO.
 
 ### **Past workshops**
+
+**14 April 2025, TUDelft: Non-equilibrium phenomena**
+Speakers: 
+Jens Bardarson (KTH Stockholm), Jacopo De Nardis (Cergy), Vladimir Gritsev (UvA), Chris Turner (UCLondon), Jiri Minar (UvA), Jose Soto (Kavli Delft), Tim Taminiau (QuTech Delft), Suvendu Barik (UvA)
+This workshop has been supported by NWO.
 
 **4 December 2024, TUDelft: Quantum Field Theory and Boundary Critical Phenomena**
 Speakers:
