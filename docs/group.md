@@ -36,6 +36,8 @@ Bernhard Lüscher (now a PhD student at the University of Zurich)
 
 ### **News**
 
+19/03/2025 Niels Pronk successfully defended his thesis
+
 21/10/2024 Bowy's paper has been accepted by [SciPost Physics](https://scipost.org/submissions/2406.20093v2/)
 
 09/09/2024 Jose's paper has been published in [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.125113)
