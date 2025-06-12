@@ -12,12 +12,14 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 [**Delft Many-Body Workshop Series**](https://nchepiga.github.io/homepage/workshop)
 ============
 
-next workshop: [Synthetic Quantum Matter, Aug 27-28 2025](assets/images/workshop4.jpg)
+next workshop: [Synthetic Quantum Matter, Aug 27-28 2025](https://nchepiga.github.io/homepage/workshop)
+
+![WS](assets/images/workshop4.jpg)
 
 [**The group / News**](https://nchepiga.github.io/homepage/group)
 ============
 
-We are hiring! If you are interested in joining the group contact me by e-mail.
+**We are hiring!** If you are interested in joining the group contact me by e-mail.
 
 ![outing](assets/images/group2024.jpg)
 
