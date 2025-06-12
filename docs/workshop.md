@@ -11,13 +11,15 @@ Understanding collective phenomena in strongly correlated quantum many-body syst
 
 **27-28 August 2025**
 
-Speakers:
+Invited speakers:
 
 Jonathan Pritchard (Strathclyde)
 
 Cristiane de Morais Smith (Utrecht)
 
 Sara Murciano (Paris-Saclay)
+
+Karel Van Acoleyen (UGhent)
 
 Lieven Vandersypen (QuTech Delft) - TBC
 
