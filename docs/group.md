@@ -16,11 +16,22 @@ Pietro Richelli
 
 **Undergraduate students:**
 
-Niels Pronk
+Luka van der Heiden
+
+Jesse van der Kooi
+
+Daan van der Veer
+
+Filip Sfetcu
+
+Ioannis Angelo Tassioulas 
 
 **Former group members:**
 
+Niels Pronk
+
 Rik Mulder (continues his studies at TUDelft)
+
 Bernhard Lüscher (now a PhD student at the University of Zurich)
 
 ### **News**
