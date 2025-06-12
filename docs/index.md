@@ -12,14 +12,12 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 [**Delft Many-Body Workshop Series**](https://nchepiga.github.io/homepage/workshop)
 ============
 
-workshop: [Quantum Field Theory and Boundary Critical Phenomena, 4 December 2024. Registration is open](https://docs.google.com/forms/d/e/1FAIpQLSfyTg5-J36g6ktsmHLX3sCHE02KjThzmLzMJsK_MLVV-Wf30Q/viewform?usp=sf_link)
-
-![Workshop1](assets/images/workshop4.jpg)
+next workshop: [Synthetic Quantum Matter, Aug 27-28 2025](assets/images/workshop4.jpg)
 
 [**The group / News**](https://nchepiga.github.io/homepage/group)
 ============
 
-If you are interested in joining the group contact me by e-mail.
+We are hiring! If you are interested in joining the group contact me by e-mail.
 
 ![outing](assets/images/group2024.jpg)
 
