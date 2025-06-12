@@ -27,6 +27,8 @@ next workshop: [Synthetic Quantum Matter, Aug 27-28 2025](https://nchepiga.githu
 **physicist/mom**
 ============
 
+![outing](assets/images/Andyslecture.jpg)
+
 ![outing](assets/images/IMG_20230809_200630097.jpg)
 
 
