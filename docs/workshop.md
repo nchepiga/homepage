@@ -19,6 +19,8 @@ Cristiane de Morais Smith (Utrecht)
 
 Sara Murciano (Paris-Saclay)
 
+Nick Bultinck (UGhent)
+
 Karel Van Acoleyen (UGhent)
 
 Lieven Vandersypen (QuTech Delft) - TBC
