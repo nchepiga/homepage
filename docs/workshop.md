@@ -19,6 +19,8 @@ Cristiane de Morais Smith (Utrecht)
 
 Sara Murciano (Paris-Saclay)
 
+Hans Peter Büchler (Stuttgart)
+
 Nick Bultinck (UGhent)
 
 Karel Van Acoleyen (UGhent)
