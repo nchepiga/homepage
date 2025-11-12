@@ -42,7 +42,7 @@ Bernhard Lüscher (now a PhD student at the University of Zurich)
 
 06/11/2025 I was a keynote at the [Øredev 2025](https://oredev.org/) Developers conference in Sweden 
 
-![oredev](assets/images/oredev3.jpg)![oredev](assets/images/oredev1.jpg)
+![oredev](assets/images/oredev3.jpg assets/images/oredev1.jpg)
 
 15/10/2025 Warre Missiaen joins the group
 
