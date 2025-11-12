@@ -11,7 +11,7 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
 [**The group / News**](https://nchepiga.github.io/homepage/group)
 
-**The group is moving to the University of Oxford. Apply now for a [PhD](https://www.ox.ac.uk/admissions/graduate/courses/dphil-theoretical-physics) and [postdoc](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=182903) positions**
+**The group is moving to the University of Oxford. Apply now for [PhD](https://www.ox.ac.uk/admissions/graduate/courses/dphil-theoretical-physics) and [postdoc](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=182903) positions**
 
 
 ![outing](assets/images/group2024.jpg)
