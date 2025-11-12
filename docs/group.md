@@ -1,6 +1,8 @@
 The group
 ===============================
 
+**The group is moving to the University of Oxford. Apply now for a [PhD](https://www.ox.ac.uk/admissions/graduate/courses/dphil-theoretical-physics) and [postdoc](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=182903) positions**
+
 ![outing](assets/images/group2024.jpg)
 
 
@@ -14,19 +16,21 @@ Julien Fitouchi
  
 Pietro Richelli
 
+Warre Missiaen
+
 **Undergraduate students:**
 
 Luka van der Heiden
-
-Jesse van der Kooi
-
-Daan van der Veer
 
 Filip Sfetcu
 
 Ioannis Angelo Tassioulas 
 
 **Former group members:**
+
+Jesse van der Kooi
+
+Daan van der Veer
 
 Niels Pronk
 
@@ -35,6 +39,18 @@ Rik Mulder (continues his studies at TUDelft)
 Bernhard Lüscher (now a PhD student at the University of Zurich)
 
 ### **News**
+
+06/11/2025 I was a keynote at the [Øredev 2025](https://oredev.org/) Developers conference in Sweden 
+
+![oredev](assets/images/oredev2.jpg)
+
+15/10/2025 Warre Missiaen joins the group
+
+01/10/2025 The group will be moving to the [University of Oxford](https://www.physics.ox.ac.uk/news/department-physics-welcome-dr-chepiga)
+
+04/09/2025 I was awarded the ERC-StG grant
+
+01/08/2025 Ioannis Angelo Tassioulas and Filip Sfetcu join the group
 
 19/03/2025 Niels Pronk successfully defended his thesis
 
