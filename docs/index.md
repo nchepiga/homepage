@@ -9,30 +9,35 @@ Email: n.chepiga@tudelft.nl
 ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
 
+[**The group / News**](https://nchepiga.github.io/homepage/group)
+
+**The group is moving to the University of Oxford. Apply now for a [PhD](https://www.ox.ac.uk/admissions/graduate/courses/dphil-theoretical-physics) and [postdoc](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=182903) positions**
+
+
+![outing](assets/images/group2024.jpg)
+
 [**Delft Many-Body Workshop Series**](https://nchepiga.github.io/homepage/workshop)
 ============
 
-next workshop: [Synthetic Quantum Matter, Aug 27-28 2025](https://nchepiga.github.io/homepage/workshop)
-
 ![WS](assets/images/workshop4.jpg)
 
-[**The group / News**](https://nchepiga.github.io/homepage/group)
+The time of Delft Many-Body Workshops is over. Thank you so much for those to contributed and joined.
+
 ============
-
-**We are hiring!** If you are interested in joining the group contact me by e-mail.
-
-![outing](assets/images/group2024.jpg)
 
 
 **physicist/mom**
 ============
 
-![outing](assets/images/Andyslecture.jpg)
-
 ![outing](assets/images/IMG_20230809_200630097.jpg)
 
+![outing](assets/images/andy4.jpg)
+joint-peer-review?
+
+![outing](assets/images/Andyslecture.jpg)
 
 ![outing](assets/images/IMG_20230727_182814206_HDR.jpg)
+
 
 
 
