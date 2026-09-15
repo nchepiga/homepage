@@ -1,14 +1,13 @@
 The group
 ===============================
 
-**The group is moving to the University of Oxford. Apply now for [PhD](https://www.ox.ac.uk/admissions/graduate/courses/dphil-theoretical-physics) and [postdoc](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=182903) positions**
-
 ![outing](assets/images/group2024.jpg)
 
-
-**Graduate students:**
+**Postdocs:**
 
 Jose Soto Garcia 
+
+**Graduate students:**
 
 Bowy La Riviere
 
@@ -18,27 +17,34 @@ Pietro Richelli
 
 Warre Missiaen
 
-**Undergraduate students:**
+
+**Former group members:**
 
 Luka van der Heiden
 
-Filip Sfetcu
+Filip Sfetcu (PhD at the University of Utrecht)
 
 Ioannis Angelo Tassioulas 
-
-**Former group members:**
 
 Jesse van der Kooi
 
 Daan van der Veer
 
-Niels Pronk
+Niels Pronk (PhD at the University of Leiden)
 
 Rik Mulder (continues his studies at TUDelft)
 
-Bernhard Lüscher (now a PhD student at the University of Zurich)
+Bernhard Lüscher (PhD student at the University of Zurich)
 
 ### **News**
+
+01/09/2026 Tensor network community in the UK was awarded a programme grant by the UKRI 
+
+01/04/2026 I was awarded the URF grant by the Royal Society 
+
+30/03/2026 Dr. Jose Soto Garcia
+
+![jose](assets/images/jose_defense.jpeg)
 
 06/11/2025 I was a keynote at the [Øredev 2025](https://oredev.org/) Developers conference in Sweden 
 
