@@ -1,7 +1,7 @@
 Natalia Chepiga
 ===============
 
-Email: n.chepiga@tudelft.nl
+Email: natalia.chepiga@physics.ox.ac.uk
 
 [CV](https://nchepiga.github.io/homepage/assets/CV_Chepiga.pdf) and
 [GoogleScholar](https://scholar.google.ch/citations?user=oktle5oAAAAJ&hl=de&oi=ao)
@@ -10,8 +10,6 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
 
 [**The group / News**](https://nchepiga.github.io/homepage/group)
-
-**The group has moved to the University of Oxford.**
 
 
 ![outing](assets/images/group2024.jpg)

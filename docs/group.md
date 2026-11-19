@@ -9,7 +9,6 @@ Jose Soto Garcia
 
 **Graduate students:**
 
-Bowy La Riviere
 
 Julien Fitouchi
  
@@ -19,6 +18,8 @@ Warre Missiaen
 
 
 **Former group members:**
+
+Bowy La Riviere
 
 Luka van der Heiden
 
@@ -37,6 +38,10 @@ Rik Mulder (continues his studies at TUDelft)
 Bernhard Lüscher (PhD student at the University of Zurich)
 
 ### **News**
+
+23/09/2026 Dr. Bowy La Riviere
+
+![bowy](assets/images/bowy.jpg)
 
 01/09/2026 Tensor network community in the UK was awarded a programme grant by the UKRI 
 
