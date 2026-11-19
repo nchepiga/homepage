@@ -41,7 +41,7 @@ Bernhard Lüscher (PhD student at the University of Zurich)
 
 23/09/2026 Dr. Bowy La Riviere
 
-![bowy](assets/images/bowy.jpg)
+![bowy](assets/images/bowy.svg)
 
 01/09/2026 Tensor network community in the UK was awarded a programme grant by the UKRI 
 
