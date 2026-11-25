@@ -45,6 +45,8 @@ Bernhard Lüscher (PhD student at the University of Zurich)
 
 ### **News**
 
+01/11/2026 MMPHys students Luisa Otto, Joel Averbukh and Luke Bennett join the group. Welcome!
+
 04/10/2026 William Worthy, Max Murphy and Adonis Haxhijaj join the group. Welcome!
 
 23/09/2026 Dr. Bowy La Riviere
