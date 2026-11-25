@@ -13,7 +13,7 @@ ORCID iD: [0000-0002-5313-5035](https://orcid.org/0000-0002-5313-5035)
 
 [**The group / News**](https://nchepiga.github.io/homepage/group)
 
-![outing](assets/images/group2026.jpg)
+![outing](assets/images/group2026.jpeg)
 
 [**Delft Many-Body Workshop Series**](https://nchepiga.github.io/homepage/workshop)
 ============
