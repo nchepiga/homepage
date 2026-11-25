@@ -1,7 +1,7 @@
 The group
 ===============================
 
-![outing](assets/images/group2024.jpg)
+![outing](assets/images/groupmeeting2026.jpg)
 
 **Postdocs:**
 
@@ -9,6 +9,11 @@ Jose Soto Garcia
 
 **Graduate students:**
 
+Max Murphy
+
+William Worthy
+
+Adonis Haxhijaj
 
 Julien Fitouchi
  
@@ -39,6 +44,8 @@ Bernhard Lüscher (PhD student at the University of Zurich)
 
 ### **News**
 
+04/10/2026 William Worthy, Max Murphy and Adonis Haxhijaj join the group. Welcome!
+
 23/09/2026 Dr. Bowy La Riviere
 
 ![bowy](assets/images/bowy.svg)
@@ -64,6 +71,8 @@ Bernhard Lüscher (PhD student at the University of Zurich)
 01/08/2025 Ioannis Angelo Tassioulas and Filip Sfetcu join the group
 
 19/03/2025 Niels Pronk successfully defended his thesis
+
+![outing](assets/images/group2024.jpg)
 
 21/10/2024 Bowy's paper has been accepted by [SciPost Physics](https://scipost.org/submissions/2406.20093v2/)
 
