@@ -1,4 +1,4 @@
-The group
+### **The group**
 
 ![outing](assets/images/groupmeeting2026.jpg)
 
@@ -21,7 +21,7 @@ Pietro Richelli
 
 Warre Missiaen
 
-==============================================
+===================================================================
 
 **Former group members:**
 
