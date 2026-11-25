@@ -1,9 +1,7 @@
 The group
 
-
-===============================
-
 ![outing](assets/images/groupmeeting2026.jpg)
+
 
 **Postdocs:**
 
@@ -23,6 +21,7 @@ Pietro Richelli
 
 Warre Missiaen
 
+==============================================
 
 **Former group members:**
 
