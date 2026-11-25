@@ -1,6 +1,6 @@
 **The group**
 
-[Back to main page](https://orcid.org/0000-0002-5313-5035)
+[Back to main page](https://https://nchepiga.github.io/homepage/)
 ===============================
 
 ![outing](assets/images/groupmeeting2026.jpg)
