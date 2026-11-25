@@ -1,6 +1,6 @@
-**The group**
+The group
 
-[Back to main page](https://https://nchepiga.github.io/homepage/)
+
 ===============================
 
 ![outing](assets/images/groupmeeting2026.jpg)
